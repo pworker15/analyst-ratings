@@ -1,0 +1,17 @@
+{
+  "name": "benzinga-session-client",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "axios-cookiejar-support": "^6.0.2",
+    "cheerio": "^1.1.2",
+    "dotenv": "^16.6.1",
+    "prompts": "^2.4.2",
+    "tough-cookie": "^4.1.3"
+  }
+}
