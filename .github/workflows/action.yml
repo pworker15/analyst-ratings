@@ -1,0 +1,47 @@
+name: Analyst-Ratings
+
+on:
+  repository_dispatch:
+    types: [analyst-ratings]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  handle-users-commands:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+          persist-credentials: true
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Collect Analysts Ratings
+        env:
+          MAX_DAYS:          ${{ vars.MAX_DAYS }}
+          MIN_PRICE:          ${{ vars.MIN_PRICE }}
+          DISCORD_WEBHOOK_URL: ${{ vars.DISCORD_WEBHOOK_URL }}
+          LOG_FILE:       ${{ vars.LOG_FILE }}
+          BATCH_MODE:         ${{ vars.BATCH_MODE }}
+          RATE_LIMIT_MS:         ${{ vars.RATE_LIMIT_MS }}
+          MAX_PER_RUN:      ${{ vars.MAX_PER_RUN }}
+          EMBED_MODE: ${{ vars.EMBED_MODE }}
+          EMBEDS_PER_REQ:       ${{ vars.EMBEDS_PER_REQ }}
+
+
+          
+        run: node index.mjs
