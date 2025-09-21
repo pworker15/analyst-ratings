@@ -57,6 +57,6 @@ jobs:
           git pull --rebase origin main
           git stash pop || true
       
-          git add *
+          git add sent.log
           git diff --cached --quiet || git commit -m "ci: update state"
           git push
