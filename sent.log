@@ -1,0 +1,918 @@
+2025-09-19|BE|Roth Capital|Chip Moore|Neutral|Maintains|$34 → $73
+2025-09-19|FDX|BMO Capital|Fadi Chamoun|Market Perform|Maintains|$260 → $255
+2025-09-19|FDS|BMO Capital|Jeffrey Silber|Market Perform|Maintains|$452 → $324
+2025-09-19|DRI|BMO Capital|Andrew Strelzik|Market Perform|Maintains|$215 → $205
+2025-09-19|DD|BMO Capital|John McNulty|Outperform|Maintains|$107 → $104
+2025-09-19|DRI|Deutsche Bank|Brian Mullan|Buy|Maintains|$239 → $220
+2025-09-19|AS|Citigroup|Paul Lejuez|Buy|Maintains|$42 → $50
+2025-09-19|CFG|Citigroup|Keith Horowitz|Buy|Maintains|$60 → $65
+2025-09-19|PNC|Raymond James|Daniel Tamayo|Outperform|Maintains|$220 → $225
+2025-09-19|USB|Citigroup|Keith Horowitz|Buy|Maintains|$59 → $65
+2025-09-19|RRC|Raymond James|John Freeman|Outperform|Maintains|$45 → $41
+2025-09-19|TTD|Citigroup|Ygal Arounian|Neutral|Maintains|$65 → $50
+2025-09-19|DRI|Raymond James|Brian Vaccaro|Outperform|Maintains|$230 → $210
+2025-09-19|ETNB|Raymond James|Steven Seedhouse|Outperform → Market Perform|Downgrade|—
+2025-09-19|FDX|Citigroup|Ariel Rosa|Buy|Maintains|$275 → $279
+2025-09-19|BAC|Citigroup|Keith Horowitz|Buy|Maintains|$54 → $58
+2025-09-19|KSS|Citigroup|Paul Lejuez|Neutral|Maintains|$16 → $19
+2025-09-19|VVX|Morgan Stanley|Kristine Liwag|Underweight|Maintains|$51 → $55
+2025-09-19|SNDX|BTIG|Justin Zelin|Buy → Buy|Reiterates|$56 → $56
+2025-09-19|GRMN|Morgan Stanley|Erik Woodring|Underweight|Maintains|$186 → $193
+2025-09-19|DRI|Morgan Stanley|Brian Harbour|Overweight|Maintains|$235 → $238
+2025-09-19|AVAV|BTIG|Andre Madrid|Buy → Buy|Reiterates|$300 → $300
+2025-09-19|FDS|Morgan Stanley|Toni Kaplan|Underweight|Maintains|$393 → $293
+2025-09-19|SEIC|Morgan Stanley|Rayna Kumar|Overweight|Maintains|$105 → $115
+2025-09-19|W|Jefferies|Jonathan Matuszewski|Buy|Maintains|$91 → $102
+2025-09-19|MDU|Jefferies|Julien Dumoulin-Smith|Hold → Buy|Upgrade|$18 → $20
+2025-09-19|WDAY|DA Davidson|Gil Luria|Neutral|Maintains|$225 → $260
+2025-09-19|TTAN|Canaccord Genuity|David Hynes|Buy|Maintains|$130 → $140
+2025-09-19|SGHC|Canaccord Genuity|Jason Tilchen|Buy|Maintains|$17 → $18
+2025-09-19|RZLT|Maxim Group|Jason McCarthy|Buy|Maintains|$15 → $20
+2025-09-19|BDSX|Canaccord Genuity|Kyle Mikson|Buy|Maintains|$30 → $20
+2025-09-19|SMLR|Maxim Group|Matthew Galinko|Buy|Maintains|$95 → $80
+2025-09-19|OSS|Lake Street|Eric Martinuzzi|Buy|Maintains|$6 → $9
+2025-09-19|DRI|B of A Securities|Sara Senatore|Buy|Maintains|$254 → $259
+2025-09-19|PAGS|B of A Securities|Mario Pierry|Neutral → Buy|Upgrade|$10 → $13
+2025-09-19|CRWD|Baird|Shrenik Kothari|Neutral|Maintains|$460 → $490
+2025-09-19|CRWD|Macquarie|Steve Koenig|Neutral|Maintains|$465 → $485
+2025-09-19|DRI|Baird|David Tarantino|Neutral|Maintains|$230 → $208
+2025-09-19|MDB|Scotiabank|Patrick Colville|Sector Perform|Maintains|$280 → $320
+2025-09-19|AS|Baird|Jonathan Komp|Outperform|Maintains|$45 → $46
+2025-09-19|KMI|Scotiabank|Brandon Bingham|Sector Perform|Maintains|$28 → $27
+2025-09-19|EPD|Scotiabank|Brandon Bingham|Sector Perform|Maintains|$36 → $35
+2025-09-19|CHPT|UBS|Jon Windham|Neutral|Maintains|$13 → $12
+2025-09-19|WPM|UBS|Daniel Major|Neutral|Maintains|$106 → $118
+2025-09-19|SCCO|UBS|Myles Allsop|Neutral|Maintains|$100 → $110
+2025-09-19|NKE|UBS|Jay Sole|Neutral|Maintains|$63 → $71
+2025-09-19|NEM|UBS|Daniel Major|Buy|Maintains|$70 → $92
+2025-09-19|LIF|UBS|Chris Kuntarich|Buy|Maintains|$85 → $120
+2025-09-19|KGC|UBS|Daniel Major|Buy|Maintains|$20 → $27
+2025-09-19|INTC|UBS|Timothy Arcuri|Neutral|Maintains|$25 → $35
+2025-09-19|FNV|UBS|Daniel Major|Buy|Maintains|$210 → $250
+2025-09-19|FDX|UBS|Thomas Wadewitz|Buy|Maintains|$293 → $314
+2025-09-19|CNR|UBS|Myles Allsop|Buy|Maintains|$86 → $89
+2025-09-19|BTU|UBS|Myles Allsop|Neutral|Maintains|$16 → $17
+2025-09-19|BE|UBS|Manav Gupta|Buy|Maintains|$41 → $105
+2025-09-19|B|UBS|Myles Walton|Buy|Maintains|$26 → $35
+2025-09-19|AJG|UBS|Weston Bloomer|Neutral|Maintains|$322 → $329
+2025-09-19|AEM|UBS|Daniel Major|Neutral|Maintains|$125 → $160
+2025-09-19|AA|UBS|Daniel Major|Neutral|Maintains|$31 → $34
+2025-09-19|SSRM|UBS|Levi Spry|Buy → Neutral|Downgrade|$18.95 → $22.95
+2025-09-19|REZI|Oppenheimer|Ian Zaffino|Outperform|Maintains|$35 → $48
+2025-09-19|FMX|UBS|Rodrigo Alcantara|Neutral → Buy|Upgrade|$115 → $111
+2025-09-19|NEWT|Keefe, Bruyette & Woods|Timothy Switzer|Market Perform → Market Perform|Reiterates|$12 → $13
+2025-09-19|WELL|UBS|Michael Goldsmith|→ Buy|Initiates|→ $195
+2025-09-19|AJG|Keefe, Bruyette & Woods|Meyer Shields|Market Perform|Maintains|$288 → $298
+2025-09-19|VTR|UBS|Michael Goldsmith|→ Neutral|Initiates|→ $73
+2025-09-19|LAUR|UBS|Andre Salles|→ Buy|Initiates|→ $35
+2025-09-19|FDX|JP Morgan|Brian Ossenbeck|Overweight|Maintains|$285 → $284
+2025-09-19|BIRK|JP Morgan|Matthew Boss|Overweight|Maintains|$81 → $66
+2025-09-19|VLRS|JP Morgan|Fernando Abdalla|Overweight|Maintains|$7 → $8
+2025-09-19|TRMB|JP Morgan|Tami Zakaria|Overweight|Maintains|$96 → $98
+2025-09-19|VLO|Evercore ISI Group|Stephen Richardson|In-Line|Maintains|$135 → $185
+2025-09-19|RUN|JP Morgan|Mark Strouse|Overweight|Maintains|$20 → $23
+2025-09-19|PSX|Evercore ISI Group|Stephen Richardson|Outperform|Maintains|$130 → $170
+2025-09-19|SRAD|JP Morgan|Samuel Nielsen|Overweight|Maintains|$30 → $35
+2025-09-19|SEDG|JP Morgan|Mark Strouse|Neutral|Maintains|$23 → $27
+2025-09-19|MPC|Evercore ISI Group|Stephen Richardson|In-Line|Maintains|$170 → $210
+2025-09-19|SHLS|JP Morgan|Mark Strouse|Overweight|Maintains|$8 → $9
+2025-09-19|NXT|JP Morgan|Mark Strouse|Overweight|Maintains|$69 → $77
+2025-09-19|B|B of A Securities|Lawson Winder|Neutral|Maintains|$29 → $34
+2025-09-19|FDX|Evercore ISI Group|Jonathan Chappell|In-Line|Maintains|$243 → $239
+2025-09-19|HASI|JP Morgan|Mark Strouse|Overweight|Maintains|$42 → $45
+2025-09-19|FDS|Evercore ISI Group|David Motemeden|In-Line|Maintains|$394 → $328
+2025-09-19|DRI|Evercore ISI Group|David Palmer|Outperform|Maintains|$245 → $240
+2025-09-19|GNRC|JP Morgan|Mark Strouse|Neutral|Maintains|$165 → $180
+2025-09-19|FLNC|JP Morgan|Mark Strouse|Neutral|Maintains|$8 → $9
+2025-09-19|FSLR|JP Morgan|Mark Strouse|Overweight|Maintains|$241 → $262
+2025-09-19|ENPH|JP Morgan|Mark Strouse|Neutral|Maintains|$37 → $39
+2025-09-19|ENLT|JP Morgan|Mark Strouse|Neutral|Maintains|$24 → $27
+2025-09-19|CSIQ|JP Morgan|Mark Strouse|Underweight|Maintains|$7 → $8
+2025-09-19|BEP|JP Morgan|Mark Strouse|Overweight|Maintains|$30 → $32
+2025-09-19|BEPC|JP Morgan|Mark Strouse|Overweight|Maintains|$39 → $41
+2025-09-19|AS|JP Morgan|Matthew Boss|Overweight|Maintains|$46 → $53
+2025-09-19|FDX|Susquehanna|Bascome Majors|Positive|Maintains|$285 → $300
+2025-09-19|ZBH|Stifel|Rick Wise|Buy|Maintains|$115 → $118
+2025-09-19|TTAN|Stifel|Parker Lane|Buy|Maintains|$135 → $145
+2025-09-19|FDX|Stifel|J. Bruce Chan|Buy|Maintains|$308 → $296
+2025-09-19|FDS|Stifel|Shlomo Rosenbaum|Hold|Maintains|$464 → $372
+2025-09-19|EOSE|Stifel|Stephen Gengaro|Buy|Maintains|$8.5 → $10
+2025-09-19|DAY|Stifel|Brad Reback|Buy → Hold|Downgrade|$72 → $70
+2025-09-19|GTX|Stifel|Nathan Jones|→ Buy|Initiates|→ $17.5
+2025-09-19|VIK|Truist Securities|Patrick Scholes|Hold|Maintains|$55 → $59
+2025-09-19|RCL|Truist Securities|Patrick Scholes|Hold|Maintains|$337 → $333
+2025-09-19|NCLH|Truist Securities|Patrick Scholes|Buy|Maintains|$27 → $31
+2025-09-19|HRTG|Truist Securities|Mark Hughes|Buy|Maintains|$30 → $35
+2025-09-19|SGI|Keybanc|Bradley Thomas|Overweight|Maintains|$90 → $97
+2025-09-19|OLLI|Keybanc|Bradley Berning|Overweight|Maintains|$145 → $154
+2025-09-19|DRI|Truist Securities|Jake Bartlett|Buy|Maintains|$252 → $240
+2025-09-19|MU|Barclays|Tom O'Malley|Overweight|Maintains|$140 → $175
+2025-09-19|INTC|Barclays|Tom O'Malley|Equal-Weight|Maintains|$19 → $25
+2025-09-19|BILL|Truist Securities|Matthew Coad|Hold → Buy|Upgrade|$50 → $63
+2025-09-19|GIS|Barclays|Andrew Lazar|Equal-Weight|Maintains|$54 → $52
+2025-09-19|FDS|Barclays|Manav Patnaik|Underweight|Maintains|$390 → $300
+2025-09-19|DRI|Barclays|Jeffrey Bernstein|Overweight|Maintains|$255 → $230
+2025-09-19|MET|Piper Sandler|John Barnidge|Overweight → Neutral|Downgrade|$84 → $84
+2025-09-19|TTAN|Wells Fargo|Michael Turrin|Overweight|Maintains|$130 → $140
+2025-09-19|DD|RBC Capital|Arun Viswanathan|Outperform → Outperform|Reiterates|$94 → $94
+2025-09-19|CMC|Wells Fargo|Timna Tanners|Overweight|Maintains|$61 → $64
+2025-09-19|FDX|Wells Fargo|Christian Wetherbee|Equal-Weight|Maintains|$235 → $250
+2025-09-19|ALNY|RBC Capital|Luca Issi|Outperform|Maintains|$435 → $500
+2025-09-19|SPGI|Wells Fargo|Jason Haas|Overweight|Maintains|$660 → $661
+2025-09-19|MCO|Wells Fargo|Jason Haas|Overweight|Maintains|$595 → $597
+2025-09-19|SBSI|Stephens & Co.|Matt Olney|Equal-Weight → Equal-Weight|Reiterates|$36 → $36
+2025-09-19|FDS|Wells Fargo|Jason Haas|Underweight|Maintains|$355 → $296
+2025-09-19|AJG|Wells Fargo|Elyse Greenspan|Overweight|Maintains|$369 → $365
+2025-09-19|DRI|Wells Fargo|Zachary Fadem|Equal-Weight|Maintains|$225 → $200
+2025-09-19|DRI|Argus Research|John Staszak|Buy|Maintains|$260 → $220
+2025-09-19|IMAX|Barrington Research|Patrick Sholl|Outperform|Maintains|$32 → $37
+2025-09-19|HOLX|Argus Research|David Toung|Buy|Maintains|$80 → $90
+2025-09-19|INCY|Guggenheim|Michael Schmidt|Neutral → Neutral|Reiterates|—
+2025-09-19|HESM|Wells Fargo|Praneeth Satish|Overweight → Equal-Weight|Downgrade|$48 → $39
+2025-09-19|NTLA|JMP Securities|Silvan Tuerkcan|Market Perform → Market Perform|Reiterates|—
+2025-09-19|GIS|Mizuho|John Baumgartner|Neutral|Maintains|$57 → $52
+2025-09-19|AHR|UBS|Michael Goldsmith|→ Buy|Initiates|→ $51
+2025-09-19|AMZN|Wedbush|Scott Devitt|Outperform → Outperform|Reiterates|$250 → $250
+2025-09-19|CHRD|Scotiabank|Paul Cheng|→ Sector Perform|Initiates|→ $120
+2025-09-19|PR|Scotiabank|Paul Cheng|→ Sector Outperform|Initiates|→ $21
+2025-09-19|WDC|Mizuho|Vijay Rakesh|Outperform|Maintains|$87 → $120
+2025-09-19|INTC|Citigroup|Christopher Danely|Neutral → Sell|Downgrade|$24 → $29
+2025-09-19|DRI|Keybanc|Eric Gonzalez|Overweight|Maintains|$240 → $225
+2025-09-19|SITE|Loop Capital|Jeffrey Stevenson|Hold → Buy|Upgrade|$150 → $160
+2025-09-19|GOOGL|JMP Securities|Andrew Boone|Market Outperform|Maintains|$250 → $290
+2025-09-19|MDB|JMP Securities|Patrick Walravens|Market Outperform|Maintains|$345 → $375
+2025-09-19|WCN|Barclays|Jon Windham|→ Equal-Weight|Initiates|→ $192
+2025-09-19|STX|Mizuho|Vijay Rakesh|Outperform|Maintains|$160 → $245
+2025-09-19|TVTX|HC Wainwright & Co.|Joseph Pantginis|Buy → Buy|Reiterates|$47 → $47
+2025-09-19|MEG|Barclays|William Grippin|→ Overweight|Initiates|→ $35
+2025-09-19|XYL|Barclays|William Grippin|→ Overweight|Initiates|→ $165
+2025-09-19|WTS|Barclays|William Grippin|→ Equal-Weight|Initiates|→ $287
+2025-09-19|WM|Barclays|William Grippin|→ Overweight|Initiates|→ $272
+2025-09-19|SNDK|Mizuho|Vijay Rakesh|Outperform|Maintains|$57 → $112
+2025-09-19|VLTO|Barclays|William Grippin|→ Overweight|Initiates|→ $120
+2025-09-19|DK|TD Cowen|Jason Gabelman|Sell → Hold|Upgrade|$15 → $28
+2025-09-19|RSG|Barclays|William Grippin|→ Equal-Weight|Initiates|→ $240
+2025-09-19|ETNB|Wolfe Research|Andy Chen|Outperform → Peer Perform|Downgrade|—
+2025-09-19|GFL|Barclays|William Grippin|→ Overweight|Initiates|→ $62
+2025-09-19|KVYO|Morgan Stanley|Elizabeth Porter|Equal-Weight → Overweight|Upgrade|$40 → $50
+2025-09-19|CLH|Barclays|William Grippin|→ Equal-Weight|Initiates|→ $253
+2025-09-19|CWST|Barclays|William Grippin|→ Underweight|Initiates|→ $88
+2025-09-19|AMCR|JP Morgan|Jeffrey Zekauskas|Overweight → Overweight|Assumes|$11.1 → $10
+2025-09-19|CMG|TD Cowen|Andrew M. Charles|Buy → Buy|Reiterates|$58 → $58
+2025-09-19|LNC|Morgan Stanley|Bob Huang|Equal-Weight → Overweight|Upgrade|$41 → $58
+2025-09-19|NTLA|HC Wainwright & Co.|Mitchell S. Kapoor|Buy|Maintains|$25 → $30
+2025-09-19|INTC|Benchmark|Cody Acree|Hold → Buy|Upgrade|→ $43
+2025-09-19|AS|B of A Securities|Lorraine Hutchinson|Buy|Maintains|$45 → $46
+2025-09-19|ETNB|HC Wainwright & Co.|Andrew S. Fein|Buy → Neutral|Downgrade|→ $14.5
+2025-09-19|DKS|Telsey Advisory Group|Joseph Feldman|Outperform|Maintains|$255 → $255
+2025-09-19|FDX|B of A Securities|Ken Hoexter|Neutral|Maintains|$240 → $244
+2025-09-19|DRI|Stephens & Co.|Jim Salera|Equal-Weight → Equal-Weight|Reiterates|$215 → $215
+2025-09-19|FVRR|BTIG|Marvin Fong|Neutral → Buy|Upgrade|→ $31
+2025-09-19|MDB|Needham|Mike Cikos|Buy|Maintains|$325 → $365
+2025-09-19|BSX|Needham|Mike Matson|Buy → Buy|Reiterates|$121 → $121
+2025-09-19|UPS|BMO Capital|Fadi Chamoun|Outperform → Market Perform|Downgrade|$125 → $96
+2025-09-19|TRGP|BMO Capital|Ameet Thakkar|→ Outperform|Initiates|→ $185
+2025-09-19|LNG|BMO Capital|Ameet Thakkar|→ Outperform|Initiates|→ $268
+2025-09-19|KMI|BMO Capital|Ameet Thakkar|→ Outperform|Initiates|→ $32
+2025-09-19|WMB|BMO Capital|Ameet Thakkar|→ Outperform|Initiates|→ $66
+2025-09-19|CRWV|Loop Capital|Ananda Baruah|→ Buy|Initiates|→ $165
+2025-09-19|TSLA|Baird|Ben Kallo|Neutral → Outperform|Upgrade|$320 → $548
+2025-09-19|TTAN|Piper Sandler|Brent Bracelin|Overweight → Overweight|Reiterates|$155 → $155
+2025-09-19|ACON|Ascendiant Capital|Lucas Ward|Buy|Maintains|$20 → $22
+2025-09-19|DRI|TD Cowen|Andrew M. Charles|Hold|Maintains|$235 → $200
+2025-09-19|NKTR|BTIG|Julian Harrison|Buy → Buy|Reiterates|$100 → $100
+2025-09-19|DRI|BTIG|Peter Saleh|Buy|Maintains|$235 → $225
+2025-09-18|SLDE|Keefe, Bruyette & Woods|Thomas McJoynt-Griffith|Market Perform → Outperform|Upgrade|$20 → $19
+2025-09-18|DE|Oppenheimer|Noah Kaye|Outperform|Maintains|$566 → $512
+2025-09-18|CNH|Oppenheimer|Kristen Owen|Outperform|Maintains|$16 → $13
+2025-09-18|AGCO|Oppenheimer|Kristen Owen|Outperform|Maintains|$124 → $123
+2025-09-18|CRWD|Roth Capital|Taz Koujalgi|Buy → Buy|Reiterates|$410 → $510
+2025-09-18|WYFI|Roth Capital|Darren Aftahi|Buy|Maintains|$25 → $28
+2025-09-18|PEW|Roth Capital|Matt Koranda|→ Buy|Initiates|→ $8.25
+2025-09-18|HLNE|Goldman Sachs|Alexander Blostein|Sell → Neutral|Upgrade|$149 → $162
+2025-09-18|TSLA|Goldman Sachs|Mark Delaney|Neutral|Maintains|$300 → $395
+2025-09-18|STEP|Goldman Sachs|Alexander Blostein|Neutral → Buy|Upgrade|$64 → $83
+2025-09-18|ROIV|Goldman Sachs|Corinne Jenkins|Buy|Maintains|$20 → $24
+2025-09-18|MDB|Goldman Sachs|Kash Rangan|Buy|Maintains|$325 → $370
+2025-09-18|DINO|Goldman Sachs|Neil Mehta|Buy|Maintains|$54 → $61
+2025-09-18|MTH|B of A Securities|Rafe Jadrosich|Buy|Maintains|$79 → $85
+2025-09-18|LEN|B of A Securities|Rafe Jadrosich|Neutral|Maintains|$115 → $135
+2025-09-18|KBH|B of A Securities|Rafe Jadrosich|Neutral|Maintains|$60 → $67
+2025-09-18|DHI|B of A Securities|Rafe Jadrosich|Neutral|Maintains|$155 → $175
+2025-09-18|DFH|B of A Securities|Rafe Jadrosich|Neutral|Maintains|$27 → $30
+2025-09-18|TOL|B of A Securities|Rafe Jadrosich|Buy|Maintains|$150 → $155
+2025-09-18|TMHC|B of A Securities|Taylor Morrison|Buy|Maintains|$72 → $75
+2025-09-18|SDHC|B of A Securities|Rafe Jadrosich|Underperform|Maintains|$16 → $17
+2025-09-18|CRWD|BMO Capital|Keith Bachman|Outperform|Maintains|$450 → $500
+2025-09-18|LYFT|BMO Capital|Brian Pitz|Market Perform|Maintains|$16 → $20
+2025-09-18|MDB|BMO Capital|Keith Bachman|Outperform|Maintains|$315 → $365
+2025-09-18|PGR|BMO Capital|Michael Zaremski|Market Perform|Maintains|$250 → $252
+2025-09-18|MDB|UBS|Karl Keirstead|Neutral|Maintains|$310 → $330
+2025-09-18|GIS|UBS|Peter Grom|Sell|Maintains|$49 → $47
+2025-09-18|MDB|Oppenheimer|Ittai Kidron|Outperform|Maintains|$325 → $385
+2025-09-18|MGRC|Oppenheimer|Scott Schneeberger|Outperform|Maintains|$139 → $143
+2025-09-18|PCG|UBS|Gregg Orrill|Neutral|Maintains|$19 → $17
+2025-09-18|TLX|Citigroup|Laura Sutcliffe|→ Buy|Initiates|→ $22
+2025-09-18|METC|Jefferies|Chris LaFemina|Buy|Maintains|$27 → $45
+2025-09-18|ROKU|Citigroup|Jason Bazinet|Neutral|Maintains|$85 → $100
+2025-09-18|BLSH|Citigroup|Peter Christiansen|Buy|Maintains|$66 → $70
+2025-09-18|ZBH|Rothschild & Co|Ed Ridley-Day|→ Buy|Initiates|→ $130
+2025-09-18|CBRL|Citigroup|Jon Tower|Sell|Maintains|$47 → $42
+2025-09-18|SYK|Rothschild & Co|Ed Ridley-Day|→ Neutral|Initiates|→ $420
+2025-09-18|TW|Rothschild & Co|Simon Clinch|Buy → Neutral|Downgrade|$157 → $129
+2025-09-18|T|Raymond James|Frank Louthan|Strong Buy → Strong Buy|Reiterates|$31 → $33
+2025-09-18|ROIV|Jefferies|Dennis Ding|Buy|Maintains|$18 → $20
+2025-09-18|LYFT|Jefferies|John Colantuoni|Hold|Maintains|$15 → $22
+2025-09-18|CRWD|Jefferies|Joseph Gallo|Buy|Maintains|$500 → $515
+2025-09-18|CRWD|DA Davidson|Rudy Kessinger|Buy|Maintains|$490 → $515
+2025-09-18|PGR|Keefe, Bruyette & Woods|Meyer Shields|Market Perform|Maintains|$268 → $270
+2025-09-18|MDB|DA Davidson|Rudy Kessinger|Buy|Maintains|$325 → $365
+2025-09-18|FNMA|Keefe, Bruyette & Woods|Bose George|Underperform|Maintains|$4 → $10
+2025-09-18|FMCC|Keefe, Bruyette & Woods|Bose George|Underperform|Maintains|$4.5 → $11
+2025-09-18|SITM|Stifel|Tore Svanberg|Buy|Maintains|$230 → $320
+2025-09-18|ZM|Stifel|Parker Lane|Hold|Maintains|$80 → $90
+2025-09-18|MDB|Stifel|Brad Reback|Buy|Maintains|$325 → $375
+2025-09-18|WYNN|Stifel|Steve Wieczynski|Buy|Maintains|$130 → $145
+2025-09-18|CRWD|Stifel|Adam Borg|Buy|Maintains|$495 → $515
+2025-09-18|PEB|Evercore ISI Group|Richard Hightower|In-Line|Maintains|$12 → $13
+2025-09-18|MDB|Truist Securities|Junaid Siddiqui|Buy|Maintains|$330 → $375
+2025-09-18|LYFT|Canaccord Genuity|George Gianarikas|Hold|Maintains|$11 → $18
+2025-09-18|CRWD|Truist Securities|Joel Fishbein|Buy|Maintains|$500 → $550
+2025-09-18|CBRL|Truist Securities|Jake Bartlett|Buy|Maintains|$62 → $58
+2025-09-18|CBRL|Piper Sandler|Brian Mullan|Neutral|Maintains|$56 → $49
+2025-09-18|DRVN|Canaccord Genuity|Brian McNamara|Buy|Maintains|$24 → $24
+2025-09-18|RDDT|Piper Sandler|Thomas Champion|Overweight|Maintains|$210 → $290
+2025-09-18|GOOGL|Piper Sandler|Thomas Champion|Overweight|Maintains|$220 → $285
+2025-09-18|DOCS|Canaccord Genuity|Richard Close|Hold|Maintains|$59 → $67
+2025-09-18|DECK|Bernstein|Aneesha Sherman|→ Underperform|Initiates|→ $100
+2025-09-18|MU|Wedbush|Matt Bryson|Outperform|Maintains|$165 → $200
+2025-09-18|PAGP|JP Morgan|Jeremy Tonet|Neutral|Maintains|$21 → $20
+2025-09-18|ARVN|BTIG|Jeet Mukherjee|Buy|Maintains|$16 → $10
+2025-09-18|PAA|JP Morgan|Jeremy Tonet|Neutral|Maintains|$21 → $20
+2025-09-18|DRI|TD Cowen|Andrew M. Charles|Hold → Hold|Reiterates|$235 → $235
+2025-09-18|SNX|Morgan Stanley|Erik Woodring|Overweight|Maintains|$155 → $173
+2025-09-18|EIX|Morgan Stanley|David Arcaro|Underweight|Maintains|$55 → $61
+2025-09-18|DRI|Stephens & Co.|Jim Salera|Equal-Weight → Equal-Weight|Reiterates|$215 → $215
+2025-09-18|M|Morgan Stanley|Alex Straton|Equal-Weight|Maintains|$12 → $16
+2025-09-18|SGHC|BTIG|Clark Lampen|Buy → Buy|Reiterates|$14 → $14
+2025-09-18|KYMR|HC Wainwright & Co.|Andrew S. Fein|Buy|Maintains|$60 → $70
+2025-09-18|ZM|RBC Capital|Rishi Jaluria|Outperform → Outperform|Reiterates|$100 → $100
+2025-09-18|MDB|RBC Capital|Rishi Jaluria|Outperform → Outperform|Reiterates|$350 → $350
+2025-09-18|CRWD|RBC Capital|Matthew Hedberg|Outperform → Outperform|Reiterates|$510 → $510
+2025-09-18|ARGX|Guggenheim|Yatin Suneja|Buy → Buy|Reiterates|$1070 → $1070
+2025-09-18|ETSY|Guggenheim|Steven Forbes|Buy → Buy|Reiterates|$70 → $70
+2025-09-18|ROIV|JP Morgan|Brian Cheng|Overweight|Maintains|$16 → $20
+2025-09-18|OTIS|JP Morgan|Stephen Tusa|Overweight|Maintains|$101 → $105
+2025-09-18|KMX|JP Morgan|Rajat Gupta|Neutral|Maintains|$58 → $65
+2025-09-18|IMCR|Guggenheim|Paul Jeng|→ Neutral|Assumes|—
+2025-09-18|MDB|Guggenheim|Howard Ma|Buy → Buy|Reiterates|$400 → $400
+2025-09-18|MDB|Macquarie|Steve Koenig|Neutral|Maintains|$265 → $305
+2025-09-18|KSS|Morgan Stanley|Kimberly Greenberger|Underweight|Maintains|$5 → $9
+2025-09-18|CRWD|Guggenheim|John Difucci|Neutral → Neutral|Reiterates|—
+2025-09-18|ROIV|Guggenheim|Yatin Suneja|Buy|Maintains|$15 → $21
+2025-09-18|AEO|Morgan Stanley|Alex Straton|Equal-Weight|Maintains|$10 → $17
+2025-09-18|AMTM|Morgan Stanley|Kristine Liwag|Underweight|Maintains|$19 → $20
+2025-09-18|WDAY|Guggenheim|John Difucci|Neutral → Buy|Upgrade|→ $285
+2025-09-18|IMTX|Guggenheim|Paul Jeng|→ Buy|Initiates|→ $16
+2025-09-18|IDYA|Guggenheim|Paul Jeng|→ Buy|Initiates|→ $50
+2025-09-18|PGR|B of A Securities|Joshua Shanker|Buy|Maintains|$347 → $343
+2025-09-18|ROIV|Leerink Partners|David Risinger|Outperform|Maintains|$18 → $22
+2025-09-18|CRWD|Cantor Fitzgerald|Jonathan Ruykhaver|Overweight|Maintains|$475 → $500
+2025-09-18|ROIV|B of A Securities|Chi Fong|Neutral|Maintains|$12 → $16.5
+2025-09-18|MNDY|Cantor Fitzgerald|Thomas Blakey|Overweight|Maintains|$286 → $257
+2025-09-18|MDB|B of A Securities|Bradley Sills|Buy|Maintains|$345 → $380
+2025-09-18|VALE|Scotiabank|Alfonso Salazar|Sector Perform → Sector Outperform|Upgrade|→ $14
+2025-09-18|BLSH|Cantor Fitzgerald|Brett Knoblauch|Overweight|Maintains|$56 → $59
+2025-09-18|ADTN|B. Riley Securities|Dave Kang|→ Buy|Initiates|→ $16
+2025-09-18|MDB|Cantor Fitzgerald|Thomas Blakey|Overweight|Maintains|$312 → $406
+2025-09-18|ZM|Cantor Fitzgerald|Thomas Blakey|Neutral → Neutral|Reiterates|$87 → $87
+2025-09-18|ZM|JMP Securities|Patrick Walravens|Market Perform → Market Perform|Reiterates|—
+2025-09-18|WAY|JMP Securities|Constantine Davides|→ Market Outperform|Initiates|→ $48
+2025-09-18|NUE|Wells Fargo|Timna Tanners|Equal-Weight|Maintains|$146 → $140
+2025-09-18|RDDT|JMP Securities|Andrew Boone|Market Outperform|Maintains|$225 → $300
+2025-09-18|FEIM|Craig-Hallum|Daniel Hibshman|→ Buy|Initiates|→ $43
+2025-09-18|ATLC|JMP Securities|David M. Scharf|Market Outperform|Maintains|$78 → $95
+2025-09-18|SAH|Benchmark|Michael Albanese|Buy|Maintains|$80 → $85
+2025-09-18|LYFT|Deutsche Bank|Benjamin Black|Hold|Maintains|$16 → $21
+2025-09-18|ATMU|Wells Fargo|Joseph O'Dea|Equal-Weight|Maintains|$42 → $47
+2025-09-18|SGHC|Benchmark|Mike Hickey|Buy|Maintains|$16 → $18
+2025-09-18|LYFT|B of A Securities|Michael McGovern|Underperform|Maintains|$12 → $14
+2025-09-18|ZM|Benchmark|Matthew Harrigan|Buy|Maintains|$102 → $110
+2025-09-18|PGRE|Wells Fargo|Blaine Heck|Underweight → Equal-Weight|Upgrade|$4.2 → $6.6
+2025-09-18|CNXC|Baird|David Koning|Outperform|Maintains|$72 → $75
+2025-09-18|CRWD|Keybanc|Eric Heath|Overweight|Maintains|$495 → $510
+2025-09-18|PEB|Baird|Michael Bellisario|Neutral|Maintains|$12 → $13
+2025-09-18|CPNG|Arete Research|Richard Kramer|→ Buy|Initiates|→ $40
+2025-09-18|WDAY|Barclays|Raimo Lenschow|Overweight|Maintains|$285 → $288
+2025-09-18|VALE|Barclays|Amos Fletcher|Overweight|Maintains|$13.5 → $13.7
+2025-09-18|UHS|Barclays|Andrew Mok|Overweight|Maintains|$259 → $250
+2025-09-18|THC|Barclays|Andrew Mok|Overweight|Maintains|$208 → $229
+2025-09-18|NKE|Barclays|Adrienne Yih|Equal-Weight|Maintains|$64 → $65
+2025-09-18|MDB|Barclays|Raimo Lenschow|Overweight|Maintains|$305 → $345
+2025-09-18|QUBT|Lake Street|Max Michaelis|→ Buy|Initiates|→ $24
+2025-09-18|HCA|Barclays|Andrew Mok|Overweight|Maintains|$390 → $445
+2025-09-18|FERG|Barclays|Matthew Bouley|Overweight|Maintains|$247 → $273
+2025-09-18|CRWD|Barclays|Saket Kalia|Overweight|Maintains|$500 → $515
+2025-09-18|BABA|Susquehanna|Shyam Patil|Positive|Maintains|$175 → $190
+2025-09-18|HOLX|Stephens & Co.|Mason Carrico|Overweight → Overweight|Reiterates|$78 → $78
+2025-09-18|ACN|Susquehanna|James Friedman|Neutral|Maintains|$330 → $270
+2025-09-18|BLSH|Canaccord Genuity|Joseph Vafi|Buy|Maintains|$68 → $68
+2025-09-18|ARVN|Stephens & Co.|Sudan Loganathan|Overweight|Maintains|$16 → $14
+2025-09-18|SFIX|Telsey Advisory Group|Dana Telsey|Market Perform|Maintains|$6 → $6
+2025-09-18|TRNO|Piper Sandler|Alexander Goldfarb|Neutral|Maintains|$58 → $60
+2025-09-18|EVTL|D. Boral Capital|Jason Kolbert|Buy|Maintains|$15 → $15
+2025-09-18|SPG|Piper Sandler|Alexander Goldfarb|Overweight|Maintains|$200 → $210
+2025-09-18|BLSH|Rosenblatt|Chris Brendler|Buy|Maintains|$60 → $62
+2025-09-18|DEI|Piper Sandler|Alexander Goldfarb|Overweight|Maintains|$18 → $19
+2025-09-18|ZM|Rosenblatt|Catharine Trebnick|Buy|Maintains|$110 → $110
+2025-09-18|CRWD|Rosenblatt|Catharine Trebnick|Buy|Maintains|$490 → $490
+2025-09-18|MU|Rosenblatt|Kevin Cassidy|Buy|Maintains|$200 → $200
+2025-09-18|PGR|Wells Fargo|Elyse Greenspan|Overweight → Equal-Weight|Downgrade|$327 → $265
+2025-09-18|CRDO|William Blair|Sebastien Naji|→ Outperform|Initiates|—
+2025-09-18|SOFI|Mizuho|Dan Dolev|Outperform|Maintains|$26 → $31
+2025-09-18|DBX|UBS|Matthew Weston|Neutral → Sell|Assumes|$29 → $27
+2025-09-18|CRWD|Morgan Stanley|Keith Weiss|Equal-Weight|Maintains|$460 → $475
+2025-09-18|HD|Wolfe Research|Spencer Hanus|→ Outperform|Assumes|→ $497
+2025-09-18|BOX|UBS|Seth Gilbert|Buy → Neutral|Assumes|$42 → $36
+2025-09-18|TSCO|Wolfe Research|Spencer Hanus|→ Outperform|Assumes|→ $70
+2025-09-18|RMD|Citigroup|Laura Sutcliffe|→ Buy|Initiates|→ $330
+2025-09-18|PCG|Morgan Stanley|David Arcaro|Underweight → Equal-Weight|Upgrade|$19 → $20
+2025-09-18|ONC|Barclays|Peter Lawson|→ Overweight|Initiates|→ $385
+2025-09-18|TSEM|Barclays|Tavy Rosner|→ Equal-Weight|Initiates|→ $74
+2025-09-18|CBRL|B of A Securities|Sara Senatore|Underperform|Maintains|$48 → $42
+2025-09-18|WMT|Wolfe Research|Spencer Hanus|→ Outperform|Assumes|→ $129
+2025-09-18|AVAV|B of A Securities|Ronald Epstein|→ Buy|Initiates|→ $300
+2025-09-18|ORLY|Wolfe Research|Spencer Hanus|→ Outperform|Assumes|→ $121
+2025-09-18|USPH|JP Morgan|Benjamin Rossi|→ Overweight|Assumes|→ $110
+2025-09-18|DORM|BMO Capital|Tristan Thomas-Martin|→ Outperform|Initiates|→ $180
+2025-09-18|SGRY|JP Morgan|Benjamin Rossi|→ Neutral|Assumes|→ $27
+2025-09-18|COST|Wolfe Research|Spencer Hanus|→ Peer Perform|Assumes|—
+2025-09-18|CON|JP Morgan|Benjamin Rossi|→ Overweight|Assumes|→ $31
+2025-09-18|TGT|Wolfe Research|Spencer Hanus|→ Underperform|Initiates|→ $80
+2025-09-18|AVAH|JP Morgan|Lisa Gill|Underweight → Neutral|Upgrade|$6 → $10
+2025-09-18|DLTR|Wolfe Research|Spencer Hanus|→ Peer Perform|Initiates|—
+2025-09-18|CRSP|JP Morgan|Brian Cheng|→ Overweight|Initiates|→ $70
+2025-09-18|NKE|RBC Capital|Piral Dadhania|Sector Perform → Outperform|Upgrade|$76 → $90
+2025-09-18|PRAX|Jones Trading|Justin Walsh|→ Buy|Initiates|→ $83
+2025-09-18|CSX|RBC Capital|Walter Spracklin|Sector Perform → Outperform|Upgrade|$37 → $39
+2025-09-18|WYFI|Needham|John Todaro|Buy → Buy|Reiterates|$34 → $34
+2025-09-18|MAZE|HC Wainwright & Co.|Ananda Ghosh|Buy → Buy|Reiterates|$50 → $50
+2025-09-18|ROIV|HC Wainwright & Co.|Douglas Tsao|Buy|Maintains|$18 → $20
+2025-09-18|MNDY|Needham|Scott Berg|Buy → Buy|Reiterates|$250 → $250
+2025-09-18|MNKD|HC Wainwright & Co.|Brandon Folkes|Buy → Buy|Reiterates|$11 → $11
+2025-09-18|AEO|BTIG|Janine Stichter|→ Neutral|Initiates|—
+2025-09-18|ANF|BTIG|Janine Stichter|→ Buy|Initiates|→ $120
+2025-09-18|EVTL|HC Wainwright & Co.|Amit Dayal|Buy → Buy|Reiterates|$15 → $15
+2025-09-18|ARQQ|HC Wainwright & Co.|Scott Buck|Buy → Buy|Reiterates|$52 → $52
+2025-09-18|EVTL|Needham|Chris Pierce|Buy → Buy|Reiterates|$9 → $9
+2025-09-18|FOLD|Needham|Gil Blum|Hold → Buy|Upgrade|→ $14
+2025-09-18|ZM|Needham|Joshua Reilly|Buy → Buy|Reiterates|$100 → $100
+2025-09-18|CRWD|Needham|Mike Cikos|Buy|Maintains|$475 → $535
+2025-09-18|KEX|BTIG|Gregory Lewis|Buy → Buy|Reiterates|$125 → $125
+2025-09-18|MDB|Piper Sandler|Brent Bracelin|Overweight|Maintains|$345 → $400
+2025-09-18|CYRX|BTIG|David Larsen|Buy|Maintains|$10 → $15
+2025-09-18|CRWD|BTIG|Gray Powell|Buy → Buy|Reiterates|$489 → $489
+2025-09-18|MNDY|Piper Sandler|Brent Bracelin|Overweight|Maintains|$300 → $275
+2025-09-18|RZLT|BTIG|Julian Harrison|Buy → Buy|Reiterates|$17 → $17
+2025-09-17|ORKA|BTIG|Julian Harrison|Buy|Maintains|$44 → $56
+2025-09-17|TGTX|B. Riley Securities|Mayank Mamtani|Buy|Maintains|$53 → $55
+2025-09-17|AZZ|B. Riley Securities|Lucas Pipes|Buy|Maintains|$131 → $140
+2025-09-17|EXEL|Morgan Stanley|Sean Laaman|Overweight|Maintains|$46 → $50
+2025-09-17|CGON|Morgan Stanley|Jeffrey Hung|Overweight|Maintains|$56 → $79
+2025-09-17|SRTA|Lake Street|Ben Klieve|Buy|Maintains|$6.5 → $7.25
+2025-09-17|PGR|BMO Capital|Michael Zaremski|Outperform → Market Perform|Downgrade|$279 → $250
+2025-09-17|NBHC|Keefe, Bruyette & Woods|Kelly Motta|Market Perform|Maintains|$44 → $45
+2025-09-17|SPHR|Goldman Sachs|Stephen Laszczyk|Buy|Maintains|$50 → $68
+2025-09-17|NVO|Berenberg|Kerry Holford|Hold → Buy|Upgrade|—
+2025-09-17|CPT|Goldman Sachs|Julien Blouin|Neutral → Sell|Downgrade|$118 → $106
+2025-09-17|AMH|Goldman Sachs|Julien Blouin|Buy → Neutral|Downgrade|$43 → $37
+2025-09-17|EXEL|Goldman Sachs|Paul Choi|→ Buy|Initiates|→ $47
+2025-09-17|WDAY|Guggenheim|John Difucci|Neutral → Buy|Upgrade|→ $285
+2025-09-17|AON|TD Cowen|Andrew Kligerman|Buy|Maintains|$427 → $419
+2025-09-17|WDAY|TD Cowen|J. Derrick Wood|Buy|Maintains|$310 → $290
+2025-09-17|PAG|Benchmark|Michael Albanses|Buy|Maintains|$185 → $190
+2025-09-17|HGTY|Oppenheimer|Michael Phillips|→ Outperform|Initiates|→ $15
+2025-09-17|AVTX|HC Wainwright & Co.|Mitchell S. Kapoor|Buy|Maintains|$15 → $25
+2025-09-17|ZWS|Oppenheimer|Bryan Blair|Outperform|Maintains|$48 → $52
+2025-09-17|LYFT|Oppenheimer|Chad Larkin|Outperform|Maintains|$17 → $24
+2025-09-17|LII|Oppenheimer|Noah Kaye|Outperform|Maintains|$730 → $675
+2025-09-17|ATXS|HC Wainwright & Co.|Joseph Pantginis|Buy|Maintains|$16 → $20
+2025-09-17|PTGX|HC Wainwright & Co.|Douglas Tsao|Buy → Buy|Reiterates|$80 → $80
+2025-09-17|FERG|Oppenheimer|Scott Schneeberger|Outperform|Maintains|$235 → $255
+2025-09-17|CARR|Oppenheimer|Noah Kaye|Outperform|Maintains|$85 → $75
+2025-09-17|EPRT|Stifel|Simon Yarmak|Buy|Maintains|$36 → $35.5
+2025-09-17|KDP|Piper Sandler|Mike Lavery|Overweight|Maintains|$40 → $35
+2025-09-17|TS|Piper Sandler|Derek Podhaizer|Overweight → Neutral|Downgrade|$48 → $41
+2025-09-17|LMND|Piper Sandler|John Barnidge|Neutral|Maintains|$55 → $60
+2025-09-17|ORA|Piper Sandler|Derek Podhaizer|Neutral → Overweight|Upgrade|$90 → $102
+2025-09-17|WDAY|Piper Sandler|Brent Bracelin|Underweight → Neutral|Upgrade|$220 → $235
+2025-09-17|WDAY|Evercore ISI Group|Kirk Materne|Outperform|Maintains|$275 → $300
+2025-09-17|CFG|Evercore ISI Group|John Pancari|Outperform|Maintains|$55 → $57
+2025-09-17|MU|Susquehanna|Mehdi Hosseini|Positive|Maintains|$160 → $200
+2025-09-17|SARO|Susquehanna|Charles Minervino|→ Positive|Initiates|→ $34
+2025-09-17|USB|Truist Securities|John McDonald|Hold|Maintains|$49 → $51
+2025-09-17|PKG|Truist Securities|Michael Roxland|Buy|Maintains|$238 → $262
+2025-09-17|FERG|Truist Securities|Keith Hughes|Buy|Maintains|$240 → $260
+2025-09-17|CMPR|Truist Securities|Youssef Squali|Buy|Maintains|$74 → $78
+2025-09-17|BCC|Truist Securities|Michael Roxland|Buy|Maintains|$101 → $96
+2025-09-17|SFIX|UBS|Jay Sole|Neutral|Maintains|$5 → $6
+2025-09-17|TKO|UBS|Jay Sole|Buy|Maintains|$200 → $235
+2025-09-17|FCEL|UBS|Manav Gupta|Neutral|Maintains|$4.5 → $7.25
+2025-09-17|IONQ|Needham|N. Quinn Bolton|Buy → Buy|Reiterates|$80 → $80
+2025-09-17|CSIQ|UBS|Jon Windham|Buy|Maintains|$17 → $15
+2025-09-17|PCTY|UBS|Kevin Mcveigh|Neutral|Maintains|$195 → $183
+2025-09-17|ANIP|HC Wainwright & Co.|Brandon Folkes|Buy|Maintains|$93 → $121
+2025-09-17|PAYX|UBS|Kevin Mcveigh|Neutral|Maintains|$148 → $140
+2025-09-17|PAYC|UBS|Kevin Mcveigh|Buy|Maintains|$310 → $285
+2025-09-17|BBW|Small Cap Consumer Research|Eric M Beder|Buy → Buy|Reiterates|$75 → $75
+2025-09-17|ADP|UBS|Kevin Mcveigh|Neutral|Maintains|$315 → $290
+2025-09-17|FERG|UBS|John Lovallo|Neutral|Maintains|$204 → $225
+2025-09-17|MCD|Citigroup|Jon Tower|Buy|Maintains|$373 → $381
+2025-09-17|TT|Citigroup|Andrew Kaplowitz|Buy|Maintains|$499 → $494
+2025-09-17|RNA|Roth Capital|Boobalan Pachaiyappan|→ Buy|Initiates|→ $62
+2025-09-17|WM|Citigroup|Bryan Burgmeier|Buy|Maintains|$275 → $268
+2025-09-17|WDAY|RBC Capital|Rishi Jaluria|Outperform → Outperform|Reiterates|$340 → $340
+2025-09-17|WCN|Citigroup|Bryan Burgmeier|Neutral|Maintains|$204 → $199
+2025-09-17|TWLO|RBC Capital|Rishi Jaluria|Underperform → Underperform|Reiterates|$75 → $75
+2025-09-17|RSG|Citigroup|Bryan Burgmeier|Buy|Maintains|$280 → $270
+2025-09-17|FERG|RBC Capital|Mike Dahl|Outperform|Maintains|$231 → $243
+2025-09-17|ATXS|Cantor Fitzgerald|Steven Seedhouse|Overweight → Overweight|Reiterates|$49 → $49
+2025-09-17|GFL|Citigroup|Bryan Burgmeier|Buy|Maintains|$58 → $61
+2025-09-17|CWAN|RBC Capital|Rishi Jaluria|Outperform → Outperform|Reiterates|$36 → $36
+2025-09-17|ALAB|Citigroup|Atif Malik|Buy|Maintains|$160 → $275
+2025-09-17|DUOL|Citigroup|Ygal Arounian|Buy|Maintains|$400 → $375
+2025-09-17|WDAY|JMP Securities|Patrick Walravens|Market Outperform → Market Outperform|Reiterates|$315 → $315
+2025-09-17|TRTX|JMP Securities|Steven DeLaney|Market Outperform → Market Perform|Downgrade|—
+2025-09-17|CSL|JP Morgan|Tomohiko Sano|Overweight|Maintains|$480 → $410
+2025-09-17|DRI|Guggenheim|Gregory Francfort|Buy|Maintains|$220 → $235
+2025-09-17|FERG|Baird|David Manthey|Outperform|Maintains|$260 → $262
+2025-09-17|ACN|Guggenheim|Jonathan Lee|Buy|Maintains|$335 → $305
+2025-09-17|CAT|Baird|Mircea Dobre|Outperform|Maintains|$495 → $540
+2025-09-17|META|Cantor Fitzgerald|Deepak Mathivanan|Overweight → Overweight|Reiterates|$920 → $920
+2025-09-17|RL|Jefferies|Ashley Helgans|Buy|Maintains|$325 → $365
+2025-09-17|DASH|Cantor Fitzgerald|Deepak Mathivanan|Overweight → Overweight|Reiterates|$330 → $330
+2025-09-17|WDAY|Cantor Fitzgerald|Matthew Vanvliet|Overweight → Overweight|Reiterates|$265 → $265
+2025-09-17|ORKA|Clear Street|Kaveri Pohlman|Buy|Maintains|$46 → $46
+2025-09-17|SBAC|Keybanc|Brandon Nispel|Overweight|Maintains|$280 → $235
+2025-09-17|ESI|Fermium Research|Frank Mitsch|→ Buy|Initiates|→ $30
+2025-09-17|BIDU|Jefferies|Thomas Chong|Buy|Maintains|$108 → $157
+2025-09-17|DNTH|Clear Street|Bill Maughan|→ Buy|Initiates|→ $100
+2025-09-17|CLDX|Canaccord Genuity|Edward Nash|Buy|Maintains|$62 → $62
+2025-09-17|ASPI|Canaccord Genuity|George Gianarikas|Buy|Maintains|$11 → $11
+2025-09-17|WY|JP Morgan|Hong Zhang|Overweight|Maintains|$32 → $31
+2025-09-17|CDP|JP Morgan|Anthony Paolone|Neutral|Maintains|$30 → $33
+2025-09-17|CVNA|JP Morgan|Rajat Gupta|Overweight|Maintains|$415 → $425
+2025-09-17|ALNY|B of A Securities|Tazeen Ahmad|Buy|Maintains|$453 → $520
+2025-09-17|KRC|Scotiabank|Nicholas Yulico|Sector Underperform → Sector Perform|Upgrade|$40 → $47
+2025-09-17|CIEN|B of A Securities|Tal Liani|Buy|Maintains|$135 → $155
+2025-09-17|ELF|B of A Securities|Anna Lizzul|Buy|Maintains|$135 → $160
+2025-09-17|WMT|B of A Securities|Robert Ohmes|Buy|Maintains|$120 → $125
+2025-09-17|CHRD|B of A Securities|Noah Hungness|Buy|Maintains|$112 → $123
+2025-09-17|DELL|Barclays|Tim Long|Equal-Weight|Maintains|$131 → $133
+2025-09-17|CCL|Barclays|Brandt Montour|Overweight|Maintains|$33 → $37
+2025-09-17|NBIS|Goldman Sachs|Alexander Duval|Buy|Maintains|$120 → $120
+2025-09-17|FERG|Wells Fargo|Sam Reid|Overweight|Maintains|$250 → $275
+2025-09-17|GPK|Wells Fargo|Gabe Hajde|Equal-Weight|Maintains|$23 → $20
+2025-09-17|VRSK|Wells Fargo|Jason Haas|Overweight|Maintains|$340 → $334
+2025-09-17|PSN|Baird|Andrew Wittmann|Outperform|Maintains|$92 → $100
+2025-09-17|CHRD|Wells Fargo|Hanwen Chang|Overweight|Maintains|$146 → $149
+2025-09-17|AAPL|Tigress Financial|Ivan Feinseth|Strong Buy|Maintains|$300 → $305
+2025-09-17|BBOT|Leerink Partners|Andrew Berens|→ Outperform|Initiates|→ $25
+2025-09-17|GRAB|HSBC|Piyush Choudhary|Buy → Hold|Downgrade|→ $6.2
+2025-09-17|PGRE|BTIG|Thomas Catherwood|Neutral → Neutral|Reiterates|—
+2025-09-17|COYA|D. Boral Capital|Jason Kolbert|Buy|Maintains|$18 → $18
+2025-09-17|MGNI|Rosenblatt|Barton Crockett|Buy|Maintains|$39 → $39
+2025-09-17|RMBS|Rosenblatt|Kevin Cassidy|Buy|Maintains|$90 → $130
+2025-09-17|RYAN|Wells Fargo|Elyse Greenspan|Equal-Weight → Overweight|Upgrade|$60 → $60
+2025-09-17|DAY|Citigroup|Steven Enders|Buy → Neutral|Downgrade|$70 → $70
+2025-09-17|BHVN|Citigroup|Samantha Semenkow|→ Buy|Initiates|→ $28
+2025-09-17|RITM|BTIG|Eric Hagen|Buy → Buy|Reiterates|$16 → $16
+2025-09-17|XNCR|Barclays|Etzer Darout|→ Underweight|Assumes|→ $6
+2025-09-17|FIVE|Bernstein|Zhihan Ma|→ Market Perform|Initiates|→ $160
+2025-09-17|ZG|Bernstein|Nikhil Devnani|Market Perform → Outperform|Upgrade|$75 → $105
+2025-09-17|EXEL|Barclays|Etzer Darout|→ Equal-Weight|Initiates|→ $40
+2025-09-17|NOMD|BTIG|Peter Saleh|Buy|Maintains|$20 → $18
+2025-09-17|ARVN|Barclays|Etzer Darout|→ Overweight|Assumes|→ $16
+2025-09-17|TERN|Barclays|Etzer Darout|→ Overweight|Initiates|→ $15
+2025-09-17|SMMT|Barclays|Etzer Darout|→ Underweight|Initiates|→ $13
+2025-09-17|SRRK|Barclays|Etzer Darout|→ Overweight|Initiates|→ $45
+2025-09-17|PTGX|Barclays|Etzer Darout|→ Overweight|Initiates|→ $72
+2025-09-17|MRUS|Barclays|Etzer Darout|→ Overweight|Initiates|→ $112
+2025-09-17|CCI|Keybanc|Brandon Nispel|Overweight|Maintains|$125 → $120
+2025-09-17|KYMR|Barclays|Etzer Darout|→ Overweight|Initiates|→ $60
+2025-09-17|JANX|Barclays|Etzer Darout|→ Overweight|Initiates|→ $47
+2025-09-17|RL|Barclays|Adrienne Yih|Overweight|Maintains|$360 → $353
+2025-09-17|MTZ|Wolfe Research|Steve Fleishman|Peer Perform → Outperform|Upgrade|→ $227
+2025-09-17|COYA|Chardan Capital|Keay Nakae|Buy|Maintains|$14 → $14
+2025-09-17|MRK|Berenberg|Luisa Hector|Buy → Hold|Downgrade|$100 → $90
+2025-09-17|MU|Wolfe Research|Chris Caso|Outperform|Maintains|$160 → $180
+2025-09-17|RL|Telsey Advisory Group|Dana Telsey|Outperform|Maintains|$335 → $350
+2025-09-17|KR|Roth MKM|Bill Kirk|Neutral → Buy|Upgrade|$66 → $75
+2025-09-17|FDX|Evercore ISI Group|Jonathan Chappell|Outperform → In-Line|Downgrade|$249 → $243
+2025-09-17|DUOL|Needham|Ryan MacDonald|Buy → Buy|Reiterates|$460 → $460
+2025-09-17|LLY|Berenberg|Kerry Holford|Buy → Hold|Downgrade|$970 → $830
+2025-09-17|KALA|HC Wainwright & Co.|Yi Chen|Buy|Maintains|$12 → $35
+2025-09-17|ABBV|Berenberg|Luisa Hector|Hold → Buy|Upgrade|$170 → $270
+2025-09-17|CRBP|HC Wainwright & Co.|Andres Y. Maldonado|Buy → Buy|Reiterates|$40 → $40
+2025-09-17|AVNT|Keybanc|Aleksey Yefremov|→ Overweight|Initiates|→ $48
+2025-09-17|SOUN|HC Wainwright & Co.|Scott Buck|Buy → Buy|Reiterates|$18 → $18
+2025-09-17|WDAY|Needham|Scott Berg|Buy → Buy|Reiterates|$300 → $300
+2025-09-17|VCEL|BTIG|Ryan Zimmerman|Buy → Neutral|Downgrade|—
+2025-09-17|FRO|BTIG|Gregory Lewis|Buy|Maintains|$25 → $30
+2025-09-16|NOMD|BTIG|Peter Saleh|Buy|Maintains|$20 → $18
+2025-09-16|IONQ|Benchmark|David Williams|Buy|Maintains|$55 → $75
+2025-09-16|JNJ|JP Morgan|Michael Weinstein|Neutral|Maintains|$185 → $200
+2025-09-16|SCHW|Deutsche Bank|Brian Bedell|Buy|Maintains|$114 → $113
+2025-09-16|CIFR|Canaccord Genuity|Joseph Vafi|Buy|Maintains|$9 → $12
+2025-09-16|RRX|Goldman Sachs|Joe Ritchie|Buy|Maintains|$192 → $170
+2025-09-16|NVT|Goldman Sachs|Joe Ritchie|Buy|Maintains|$99 → $111
+2025-09-16|MIR|Goldman Sachs|Joe Ritchie|Buy|Maintains|$22 → $25
+2025-09-16|CGNX|Goldman Sachs|Joe Ritchie|Sell|Maintains|$36 → $40
+2025-09-16|AMLX|Goldman Sachs|Corinne Johnson|Buy|Maintains|$10 → $20
+2025-09-16|ALNY|Goldman Sachs|Salveen Richter|Buy|Maintains|$504 → $566
+2025-09-16|ALLE|Goldman Sachs|Joe Ritchie|Buy|Maintains|$176 → $198
+2025-09-16|LNTH|B. Riley Securities|Justin Walsh|Buy|Maintains|$109 → $84
+2025-09-16|RDDT|Oppenheimer|Jason Helfstein|Outperform|Maintains|$215 → $300
+2025-09-16|FVRR|Oppenheimer|Jason Helfstein|Outperform|Maintains|$35 → $30
+2025-09-16|BNTC|Oppenheimer|Andreas Argyrides|Outperform|Maintains|$35 → $29
+2025-09-16|BELFB|Oppenheimer|Christopher Glynn|Outperform|Maintains|$140 → $175
+2025-09-16|W|Evercore ISI Group|Oliver Wintermantel|Outperform|Maintains|$85 → $100
+2025-09-16|RMBS|Evercore ISI Group|Daniel Markowitz|Outperform|Maintains|$81 → $114
+2025-09-16|ALK|Evercore ISI Group|Duane Pfennigwerth|Outperform|Maintains|$70 → $65
+2025-09-16|TMDX|Evercore ISI Group|Daniel Markowitz|→ Outperform|Initiates|→ $155
+2025-09-16|CHRD|Piper Sandler|Mark Lear|Overweight|Maintains|$166 → $169
+2025-09-16|PLAY|Piper Sandler|Brian Mullan|Neutral|Maintains|$30 → $26
+2025-09-16|BIDU|Arete Research|Richard Kramer|Sell → Buy|Upgrade|→ $143
+2025-09-16|ACN|Stifel|David Grossman|Buy|Maintains|$355 → $315
+2025-09-16|VFC|Stifel|Jim Duffy|Buy → Hold|Downgrade|$15 → $16
+2025-09-16|EMN|Wells Fargo|Michael Sison|Overweight|Maintains|$70 → $80
+2025-09-16|CRWV|Raymond James|Josh Beck|→ Outperform|Initiates|→ $130
+2025-09-16|CC|Truist Securities|Peter Osterland|Buy|Maintains|$18 → $21
+2025-09-16|MSTR|TD Cowen|Lance Vitanza|Buy|Maintains|$640 → $620
+2025-09-16|PLAY|Truist Securities|Jake Bartlett|Hold|Maintains|$27 → $22
+2025-09-16|AMZN|Truist Securities|Youssef Squali|Buy|Maintains|$250 → $270
+2025-09-16|FDX|Bernstein|David Vernon|Market Perform|Maintains|$249 → $247
+2025-09-16|ERII|CJS Securities|Larry Solow|→ Market Outperform|Initiates|→ $19
+2025-09-16|RAPP|Truist Securities|Joon Lee|→ Buy|Initiates|→ $44
+2025-09-16|HPQ|Bernstein|Toni Sacconaghi|→ Market Perform|Initiates|→ $30
+2025-09-16|EVI|DA Davidson|Michael Shlisky|Buy|Maintains|$28 → $33
+2025-09-16|AEP|Mizuho|Anthony Crowdell|Neutral|Maintains|$116 → $113
+2025-09-16|MU|Mizuho|Vijay Rakesh|Outperform|Maintains|$155 → $182
+2025-09-16|GAP|Morgan Stanley|Alex Straton|Overweight|Maintains|$27 → $28
+2025-09-16|BE|Morgan Stanley|Stephen Byrd|Overweight|Maintains|$44 → $85
+2025-09-16|RLGT|Lake Street|Mark Argento|Buy|Maintains|$10 → $8
+2025-09-16|WBTN|Deutsche Bank|Benjamin Black|Buy|Maintains|$18 → $25
+2025-09-16|KC|Deutsche Bank|Leo Chiang|→ Buy|Initiates|→ $21
+2025-09-16|HPE|Bernstein|Toni Sacconaghi|→ Market Perform|Initiates|→ $24
+2025-09-16|DRI|B of A Securities|Sara Senatore|Buy|Maintains|$253 → $254
+2025-09-16|DG|JP Morgan|Matthew Boss|Neutral|Maintains|$95 → $109
+2025-09-16|ITT|B of A Securities|Andrew Obin|Buy|Maintains|$190 → $210
+2025-09-16|SMCI|Bernstein|Mark Newman|→ Market Perform|Initiates|→ $46
+2025-09-16|IBM|Bernstein|Toni Sacconaghi|→ Market Perform|Initiates|→ $280
+2025-09-16|JBHT|B of A Securities|Ken Hoexter|Buy|Maintains|$171 → $153
+2025-09-16|WDC|Bernstein|Mark Newman|→ Market Perform|Initiates|→ $96
+2025-09-16|CAAP|JP Morgan|Guilherme Mendes|Overweight|Maintains|$24 → $24.5
+2025-09-16|STX|Bernstein|Mark Newman|→ Outperform|Initiates|→ $250
+2025-09-16|PLD|B of A Securities|Samir Khanal|Neutral → Buy|Upgrade|$118 → $130
+2025-09-16|SNDK|Bernstein||→ Outperform|Initiates|→ $120
+2025-09-16|TKO|Baird|Vikram Kesavabhotla|Outperform|Maintains|$225 → $250
+2025-09-16|DELL|Bernstein|Mark Newman|→ Outperform|Initiates|→ $175
+2025-09-16|AAPL|Bernstein|Toni Sacconaghi|→ Outperform|Initiates|→ $290
+2025-09-16|TSM|Barclays|Simon Coles|Overweight|Maintains|$275 → $325
+2025-09-16|CIGI|Scotiabank|Himanshu Gupta|Sector Outperform|Maintains|$170 → $185
+2025-09-16|CGAU|Scotiabank|Ovais Habib|Sector Outperform|Maintains|$12 → $9.5
+2025-09-16|ACN|Baird|David Koning|Outperform|Maintains|$372 → $350
+2025-09-16|OESX|HC Wainwright & Co.|Amit Dayal|Buy|Maintains|$2 → $20
+2025-09-16|GS|Wells Fargo|Mike Mayo|Overweight|Maintains|$785 → $855
+2025-09-16|MS|Wells Fargo|Mike Mayo|Equal-Weight|Maintains|$145 → $165
+2025-09-16|JPM|Wells Fargo|Mike Mayo|Overweight|Maintains|$325 → $345
+2025-09-16|C|Wells Fargo|Mike Mayo|Overweight|Maintains|$115 → $125
+2025-09-16|BAC|Wells Fargo|Mike Mayo|Overweight|Maintains|$56 → $60
+2025-09-16|JMIA|RBC Capital|Brad Erickson|Sector Perform → Outperform|Upgrade|$6.5 → $15
+2025-09-16|NIO|UBS|Paul Gong|Neutral → Buy|Upgrade|$6.2 → $8.5
+2025-09-16|KYMR|RBC Capital|Brian Abrahams|→ Outperform|Initiates|→ $70
+2025-09-16|RRR|JMP Securities|Jordan Bender|Market Outperform|Maintains|$64 → $65
+2025-09-16|GDEN|JMP Securities|Jordan Bender|Market Outperform|Maintains|$35 → $34
+2025-09-16|CZR|JMP Securities|Jordan Bender|Market Outperform|Maintains|$43 → $41
+2025-09-16|PSA|UBS|Michael Goldsmith|Neutral|Maintains|$305 → $295
+2025-09-16|PLAY|UBS|Dennis Geiger|Neutral|Maintains|$29 → $25
+2025-09-16|CRWV|JMP Securities|Greg P. Miller|Market Perform → Market Outperform|Upgrade|→ $180
+2025-09-16|NSA|UBS|Michael Goldsmith|Neutral|Maintains|$39 → $32
+2025-09-16|EXR|UBS|Michael Goldsmith|Buy|Maintains|$169 → $160
+2025-09-16|WS|Keybanc|Matthew Gillmor|Overweight|Maintains|$34 → $36
+2025-09-16|CUBE|UBS|Michael Goldsmith|Neutral|Maintains|$45 → $42
+2025-09-16|EHC|Keybanc|Matthew Gillmor|Overweight|Maintains|$135 → $140
+2025-09-16|BHVN|UBS|Ashwani Verma|Buy|Maintains|$27 → $26
+2025-09-16|CRC|UBS|Josh Silverstein|Buy|Maintains|$63 → $70
+2025-09-16|CHRD|UBS|Josh Silverstein|Buy|Maintains|$122 → $130
+2025-09-16|BAP|UBS|Thiago Batista|Buy|Maintains|$257 → $318
+2025-09-16|NEXA|Citigroup|Alexander Hacking|Neutral → Neutral|Reinstates|→ $5.5
+2025-09-16|TXRH|Guggenheim|Gregory Francfort|Buy → Buy|Reiterates|$210 → $210
+2025-09-16|CRWV|Cantor Fitzgerald|Thomas Blakey|Overweight → Overweight|Reiterates|$116 → $116
+2025-09-16|NWL|Citigroup|Filippo Falorni|Neutral|Maintains|$5.5 → $6
+2025-09-16|WDC|Benchmark|Mark Miller|Buy|Maintains|$85 → $115
+2025-09-16|MNST|Citigroup|Filippo Falorni|Buy|Maintains|$74 → $76
+2025-09-16|BBY|Argus Research|Chris Graja|Hold → Hold|Reiterates|—
+2025-09-16|KDP|Citigroup|Filippo Falorni|Buy|Maintains|$41 → $37
+2025-09-16|WBD|TD Cowen|Doug Creutz|Buy → Hold|Downgrade|$14 → $14
+2025-09-16|KVUE|Citigroup|Filippo Falorni|Neutral|Maintains|$22 → $20
+2025-09-16|LYV|Rothschild & Co|Ed Vyvyan|Buy → Neutral|Downgrade|$144 → $170
+2025-09-16|NKE|Citigroup|Paul Lejuez|Neutral|Maintains|$68 → $74
+2025-09-16|ACGL|Wolfe Research|Tracy Benguigui|→ Peer Perform|Initiates|—
+2025-09-16|DLO|Citigroup|Arnon Shirazi|Buy|Maintains|$14.6 → $17
+2025-09-16|AON|Wolfe Research|Tracy Benguigui|→ Peer Perform|Initiates|—
+2025-09-16|AIG|Wolfe Research|Tracy Benguigui|→ Peer Perform|Initiates|—
+2025-09-16|HSY|Goldman Sachs|Leah Jordan|Sell → Buy|Upgrade|$170 → $222
+2025-09-16|TT|Barclays|Julian Mitchell|Overweight|Maintains|$495 → $485
+2025-09-16|ALL|Wolfe Research|Tracy Benguigui|→ Outperform|Initiates|→ $235
+2025-09-16|RRX|Barclays|Julian Mitchell|Overweight|Maintains|$163 → $161
+2025-09-16|EG|Wolfe Research|Tracy Benguigui|→ Underperform|Initiates|→ $287
+2025-09-16|CB|Wolfe Research|Tracy Benguigui|→ Outperform|Initiates|→ $320
+2025-09-16|LII|Barclays|Julian Mitchell|Overweight|Maintains|$753 → $730
+2025-09-16|HIG|Wolfe Research|Tracy Benguigui|→ Peer Perform|Initiates|—
+2025-09-16|CRC|Barclays|Betty Jiang|Overweight|Maintains|$60 → $66
+2025-09-16|EQH|Wolfe Research|Tracy Benguigui|→ Outperform|Initiates|→ $61
+2025-09-16|GILD|JP Morgan|Chris Schott|Overweight|Maintains|$135 → $145
+2025-09-16|LLY|JP Morgan|Chris Schott|Overweight|Maintains|$1100 → $1050
+2025-09-16|AMRX|JP Morgan|Chris Schott|Overweight|Maintains|$12 → $14
+2025-09-16|ABBV|JP Morgan|Chris Schott|Overweight|Maintains|$200 → $235
+2025-09-16|WBTN|JP Morgan|Doug Anmuth|Neutral|Maintains|$14 → $22
+2025-09-16|MMC|Wolfe Research|Tracy Benguigui|→ Peer Perform|Initiates|—
+2025-09-16|PGR|Wolfe Research|Tracy Benguigui|→ Peer Perform|Initiates|—
+2025-09-16|LNC|Wolfe Research|Tracy Benguigui|→ Underperform|Initiates|→ $37
+2025-09-16|MET|Wolfe Research|Tracy Benguigui|→ Outperform|Initiates|→ $95
+2025-09-16|PRU|Wolfe Research|Tracy Benguigui|→ Peer Perform|Initiates|—
+2025-09-16|RNR|Wolfe Research|Tracy Benguigui|→ Peer Perform|Initiates|—
+2025-09-16|WRB|Wolfe Research|Tracy Benguigui|→ Peer Perform|Initiates|—
+2025-09-16|UNM|Wolfe Research|Tracy Benguigui|→ Outperform|Initiates|→ $91
+2025-09-16|TRV|Wolfe Research|Tracy Benguigui|→ Peer Perform|Initiates|—
+2025-09-16|IREN|Canaccord Genuity|Joseph Vafi|Buy|Maintains|$37 → $42
+2025-09-16|MNPR|Chardan Capital|Keay Nakae|Buy|Maintains|$60 → $60
+2025-09-16|VFC|Telsey Advisory Group|Dana Telsey|Market Perform|Maintains|$14 → $14
+2025-09-16|KLAR|Needham|Kyle Peterson|→ Hold|Initiates|—
+2025-09-16|ECVT|Citigroup|Patrick Cunningham|Buy → Neutral|Downgrade|$10 → $10.5
+2025-09-16|ANET|Needham|Ryan Koontz|Buy|Maintains|$155 → $160
+2025-09-16|SMMT|HC Wainwright & Co.|Mitchell S. Kapoor|Buy → Buy|Reiterates|$50 → $50
+2025-09-16|UNP|Loop Capital|Rick Paterson|Sell → Hold|Upgrade|$214 → $227
+2025-09-16|SLN|HC Wainwright & Co.|Patrick R. Trucchio|Buy → Buy|Reiterates|$75 → $75
+2025-09-16|HLN|Barclays|Warren Ackerman|Overweight → Equal-Weight|Downgrade|—
+2025-09-16|UPBD|BTIG|Vincent Caintic|Buy → Buy|Reiterates|$40 → $40
+2025-09-16|SYRE|BTIG|Julian Harrison|Buy → Buy|Reiterates|$70 → $70
+2025-09-16|YOU|DA Davidson|Wyatt Swanson|→ Buy|Initiates|→ $45
+2025-09-16|BLBD|BTIG|Gregory Lewis|Buy|Maintains|$55 → $65
+2025-09-16|KLAR|Compass Point|Dominick Gabriele|→ Buy|Initiates|→ $53
+2025-09-16|PRCT|BTIG|Ryan Zimmerman|Neutral → Neutral|Reiterates|—
+2025-09-16|FVRR|Needham|Bernie McTernan|Buy → Buy|Reiterates|$32 → $32
+2025-09-16|CART|BTIG|Jake Fuller|Buy|Maintains|$58 → $55
+2025-09-15|CBRL|Truist Securities|Jake Bartlett|Buy|Maintains|$65 → $62
+2025-09-15|KOF|JP Morgan|Lucas Ferreira|Neutral|Maintains|$110 → $105
+2025-09-15|SGHC|Macquarie|Chad Beynon|→ Outperform|Initiates|→ $17
+2025-09-15|CCL|Melius Research|Conor Cunningham|Buy|Maintains|$30 → $36
+2025-09-15|VIR|HC Wainwright & Co.|Patrick R. Trucchio|Buy → Buy|Reiterates|$15 → $15
+2025-09-15|GEV|Melius Research|Rob Wertheimer|Hold → Buy|Upgrade|→ $740
+2025-09-15|ETN|Melius Research|Scott Davis|Hold → Buy|Upgrade|$412 → $495
+2025-09-15|CLF|B of A Securities|Lawson Winder|Neutral|Maintains|$9.5 → $12.5
+2025-09-15|CMC|B of A Securities|Sathish Kasinathan|Buy|Maintains|$60 → $70
+2025-09-15|KRYS|HC Wainwright & Co.|Joseph Pantginis|Buy → Buy|Reiterates|$240 → $240
+2025-09-15|NUE|B of A Securities|Lawson Winder|Buy|Maintains|$150 → $165
+2025-09-15|WDC|B of A Securities|Wamsi Mohan|Buy|Maintains|$100 → $123
+2025-09-15|STX|B of A Securities|Wamsi Mohan|Buy|Maintains|$170 → $215
+2025-09-15|RNA|B of A Securities|Geoff Meacham|Buy|Maintains|$56 → $65
+2025-09-15|PL|Clear Street|Gregory Pendy|Buy|Maintains|$9 → $12
+2025-09-15|ORCL|Goldman Sachs|Kash Rangan|Neutral|Maintains|$195 → $310
+2025-09-15|DK|Goldman Sachs|Neil Mehta|Neutral|Maintains|$25 → $28
+2025-09-15|HUT|Roth Capital|Darren Aftahi|Buy → Buy|Reiterates|$31 → $60
+2025-09-15|CALX|Roth Capital|Scott Searle|Buy|Maintains|$60 → $69
+2025-09-15|RZLV|Roth Capital|Rohit Kulkarni|Buy → Buy|Reiterates|$4.25 → $9
+2025-09-15|VNOM|Mizuho|William Janela|Outperform|Maintains|$55 → $51
+2025-09-15|DEC|Mizuho|Nitin Kumar|Outperform|Maintains|$27 → $26
+2025-09-15|RRC|Mizuho|Nitin Kumar|Outperform|Maintains|$48 → $42
+2025-09-15|GPOR|Mizuho|Nitin Kumar|Neutral|Maintains|$227 → $199
+2025-09-15|CRK|Mizuho|Nitin Kumar|Neutral|Maintains|$27 → $22
+2025-09-15|GOOGL|Citigroup|Ronald Josey|Buy|Maintains|$225 → $280
+2025-09-15|BKV|Mizuho|Nitin Kumar|Outperform|Maintains|$35 → $30
+2025-09-15|AR|Mizuho|Nitin Kumar|Outperform|Maintains|$49 → $41
+2025-09-15|VTLE|Mizuho|Nitin Kumar|Neutral|Maintains|$22 → $19
+2025-09-15|SM|Mizuho|William Janela|Outperform|Maintains|$44 → $39
+2025-09-15|PR|Mizuho|Nitin Kumar|Outperform|Maintains|$20 → $19
+2025-09-15|NOG|Mizuho|William Janela|Neutral|Maintains|$32 → $28
+2025-09-15|MTDR|Mizuho|William Janela|Outperform|Maintains|$73 → $69
+2025-09-15|MGY|Mizuho|William Janela|Neutral|Maintains|$26 → $25
+2025-09-15|CRGY|Mizuho|William Janela|Neutral|Maintains|$12 → $10
+2025-09-15|CRC|Mizuho|Nitin Kumar|Outperform|Maintains|$64 → $65
+2025-09-15|CIVI|Mizuho|William Janela|Outperform|Maintains|$50 → $45
+2025-09-15|CHRD|Mizuho|Nitin Kumar|Outperform|Maintains|$152 → $142
+2025-09-15|VLO|Mizuho|Nitin Kumar|Outperform|Maintains|$166 → $190
+2025-09-15|PSX|Mizuho|Nitin Kumar|Neutral|Maintains|$140 → $142
+2025-09-15|PBF|Mizuho|Nitin Kumar|Underperform|Maintains|$23 → $26
+2025-09-15|PARR|Mizuho|Nitin Kumar|Neutral|Maintains|$34 → $40
+2025-09-15|ORCL|Berenberg|Nay Soe Naing|Hold|Maintains|$202 → $306
+2025-09-15|MPC|Mizuho|Nitin Kumar|Neutral|Maintains|$184 → $188
+2025-09-15|DINO|Mizuho|Nitin Kumar|Outperform|Maintains|$52 → $60
+2025-09-15|OVV|Mizuho|Nitin Kumar|Outperform|Maintains|$58 → $50
+2025-09-15|FANG|Mizuho|Nitin Kumar|Outperform|Maintains|$183 → $176
+2025-09-15|WDC|Benchmark|Mark Miller|Buy|Maintains|$85 → $115
+2025-09-15|EOG|Mizuho|Nitin Kumar|Neutral|Maintains|$140 → $133
+2025-09-15|DVN|Mizuho|Nitin Kumar|Outperform|Maintains|$43 → $40
+2025-09-15|CTRA|Mizuho|Nitin Kumar|Outperform|Maintains|$36 → $33
+2025-09-15|XOM|Mizuho|Nitin Kumar|Neutral|Maintains|$124 → $123
+2025-09-15|MUR|Mizuho|William Janela|Neutral|Maintains|$31 → $29
+2025-09-15|CVX|Mizuho|Nitin Kumar|Outperform|Maintains|$192 → $191
+2025-09-15|COP|Mizuho|Nitin Kumar|Outperform|Maintains|$125 → $120
+2025-09-15|APA|Mizuho|William Janela|Underperform|Maintains|$19 → $18
+2025-09-15|GIS|Morgan Stanley|Megan Alexander|Underweight|Maintains|$49 → $48
+2025-09-15|BLSH|Keefe, Bruyette & Woods|Bill Papanastasiou|→ Market Perform|Initiates|→ $55
+2025-09-15|MNPR|BTIG|Jeet Mukherjee|Buy → Buy|Reiterates|$87 → $87
+2025-09-15|MU|Deutsche Bank|Melissa Weathers|Buy|Maintains|$150 → $175
+2025-09-15|MH|BMO Capital|Jeffrey Silber|Outperform|Maintains|$24 → $25
+2025-09-15|FRSH|Baird|Rob Oliver|Neutral|Maintains|$18 → $16
+2025-09-15|WPC|Evercore ISI Group|Steve Sakwa|In-Line|Maintains|$66 → $70
+2025-09-15|WELL|Evercore ISI Group|Steve Sakwa|In-Line|Maintains|$175 → $183
+2025-09-15|VTR|Evercore ISI Group|Steve Sakwa|Outperform|Maintains|$77 → $80
+2025-09-15|VNO|Evercore ISI Group|Steve Sakwa|Outperform|Maintains|$44 → $46
+2025-09-15|VICI|Evercore ISI Group|Steve Sakwa|Outperform|Maintains|$37 → $38
+2025-09-15|UE|Evercore ISI Group|Steve Sakwa|In-Line|Maintains|$21 → $22
+2025-09-15|UDR|Evercore ISI Group|Steve Sakwa|Outperform|Maintains|$44 → $45
+2025-09-15|LE|Small Cap Consumer Research|Eric M Beder|Buy → Buy|Reiterates|$20 → $20
+2025-09-15|SUI|Evercore ISI Group|Steve Sakwa|In-Line|Maintains|$136 → $138
+2025-09-15|STAG|Evercore ISI Group|Steve Sakwa|Outperform|Maintains|$40 → $41
+2025-09-15|SLG|Evercore ISI Group|Steve Sakwa|Outperform|Maintains|$73 → $76
+2025-09-15|SKT|Evercore ISI Group|Samir Khanal|In-Line|Maintains|$33 → $35
+2025-09-15|REXR|Evercore ISI Group|Samir Khanal|In-Line|Maintains|$39 → $40
+2025-09-15|REG|Evercore ISI Group|Steve Sakwa|In-Line|Maintains|$76 → $77
+2025-09-15|SOLV|Wells Fargo|Vik Chopra|Equal-Weight|Maintains|$79 → $82
+2025-09-15|PSA|Evercore ISI Group|Steve Sakwa|In-Line|Maintains|$309 → $312
+2025-09-15|PLD|Evercore ISI Group|Steve Sakwa|In-Line|Maintains|$111 → $113
+2025-09-15|NSA|Evercore ISI Group|Steve Sakwa|Underperform|Maintains|$31 → $32
+2025-09-15|NNN|Evercore ISI Group|James Kammert|In-Line|Maintains|$44 → $46
+2025-09-15|ALLY|Citigroup|Keith Horowitz|Buy|Maintains|$59 → $70
+2025-09-15|NEXT|TD Cowen|Jason Gabelman|Buy → Hold|Downgrade|$11 → $8
+2025-09-15|MAC|Evercore ISI Group|Samir Khanal|In-Line|Maintains|$18 → $20
+2025-09-15|SPGI|Citigroup|Peter Christiansen|Buy|Maintains|$600 → $635
+2025-09-15|MAA|Evercore ISI Group|Steve Sakwa|In-Line|Maintains|$152 → $154
+2025-09-15|APAM|TD Cowen|Bill Katz|Hold|Maintains|$47 → $43
+2025-09-15|LINE|Evercore ISI Group|Steve Sakwa|In-Line|Maintains|$43 → $45
+2025-09-15|INVH|Evercore ISI Group|Steve Sakwa|Outperform|Maintains|$36 → $35
+2025-09-15|LNTH|TD Cowen|Tara Bancroft|Buy|Maintains|$95 → $80
+2025-09-15|EXR|Evercore ISI Group|Steve Sakwa|In-Line|Maintains|$146 → $147
+2025-09-15|ORLY|TD Cowen|Max Rakhlenko|Buy|Maintains|$112 → $125
+2025-09-15|ESS|Evercore ISI Group|Steve Sakwa|In-Line|Maintains|$279 → $283
+2025-09-15|RMBS|Baird|Tristan Gerra|Outperform|Maintains|$90 → $120
+2025-09-15|KYIV|Rothschild & Co|Steve Malcolm|→ Buy|Initiates|→ $15.3
+2025-09-15|FMX|JP Morgan|Joseph Giordano|Neutral|Maintains|$95 → $96
+2025-09-15|EQR|Evercore ISI Group|Steve Sakwa|Outperform|Maintains|$71 → $72
+2025-09-15|ENTA|Evercore ISI Group|Liisa Bayko|Outperform|Maintains|$20 → $12
+2025-09-15|EL|Evercore ISI Group|Robert Ottenstein|Outperform|Maintains|$100 → $115
+2025-09-15|WST|Rothschild & Co|Jamie Clark|→ Buy|Initiates|→ $311
+2025-09-15|CCL|JP Morgan|Matthew Boss|Overweight|Maintains|$34 → $39
+2025-09-15|VSCO|JP Morgan|Matthew Boss|Neutral|Maintains|$27 → $28
+2025-09-15|EGP|Evercore ISI Group|Steve Sakwa|In-Line|Maintains|$176 → $180
+2025-09-15|NLY|RBC Capital|Kenneth S. Lee|Outperform|Maintains|$21 → $23
+2025-09-15|CUZ|Evercore ISI Group|Steve Sakwa|In-Line|Maintains|$31 → $32
+2025-09-15|CPT|Evercore ISI Group|Steve Sakwa|In-Line|Maintains|$114 → $116
+2025-09-15|CDP|Evercore ISI Group|Steve Sakwa|Outperform|Maintains|$34 → $36
+2025-09-15|BRX|Evercore ISI Group|Samir Khanal|Outperform|Maintains|$31 → $32
+2025-09-15|AVB|Evercore ISI Group|Steve Sakwa|In-Line|Maintains|$212 → $216
+2025-09-15|AMH|Evercore ISI Group|Steve Sakwa|Outperform|Maintains|$41 → $40
+2025-09-15|ADC|Evercore ISI Group|James Kammert|Outperform|Maintains|$83 → $85
+2025-09-15|SPG|Evercore ISI Group|Steve Sakwa|Outperform → In-Line|Downgrade|$183 → $187
+2025-09-15|FRT|Evercore ISI Group|Steve Sakwa|Outperform → In-Line|Downgrade|$106 → $107
+2025-09-15|EPRT|Evercore ISI Group|Sheila McGrath|In-Line → Outperform|Upgrade|$34 → $36
+2025-09-15|SBH|Canaccord Genuity|Susan Anderson|Buy|Maintains|$15 → $19
+2025-09-15|PLNT|Canaccord Genuity|Brian McNamara|Buy|Maintains|$126 → $126
+2025-09-15|CUBE|Evercore ISI Group|Steve Sakwa|In-Line → Outperform|Upgrade|$47 → $48
+2025-09-15|SMR|RBC Capital|Christopher Dendrinos|→ Sector Perform|Initiates|→ $35
+2025-09-15|FCEL|Canaccord Genuity|George Gianarikas|Hold|Maintains|$12 → $12
+2025-09-15|INR|Raymond James|John Freeman|Strong Buy → Strong Buy|Reiterates|$29 → $23
+2025-09-15|TSLA|Wedbush|Daniel Ives|Outperform → Outperform|Reiterates|$500 → $500
+2025-09-15|COLB|Raymond James|David Feaster|Outperform → Strong Buy|Upgrade|$27 → $31
+2025-09-15|BLDR|Wedbush|Jay McCanless|Outperform → Neutral|Downgrade|$145 → $145
+2025-09-15|EEFT|DA Davidson|Peter Heckmann|Buy|Maintains|$130 → $130
+2025-09-15|WCCB|DA Davidson|Gary Tenner|→ Buy|Initiates|→ $50
+2025-09-15|PANW|Wedbush|Daniel Ives|Outperform|Maintains|$225 → $225
+2025-09-15|ARGX|Truist Securities|Joon Lee|Buy|Maintains|$700 → $918
+2025-09-15|WNC|DA Davidson|Michael Shlisky|Neutral|Maintains|$9.5 → $9.5
+2025-09-15|CXT|DA Davidson|Matt Summerville|Buy|Maintains|$85 → $85
+2025-09-15|MDB|Wedbush|Daniel Ives|Outperform|Maintains|$300 → $400
+2025-09-15|AXP|Truist Securities|Brian Foran|Buy|Maintains|$348 → $375
+2025-09-15|BRX|Scotiabank|Greg McGinniss|Sector Outperform|Maintains|$30 → $31
+2025-09-15|RFIL|B. Riley Securities|Josh Nichols|Buy|Maintains|$6.25 → $9.25
+2025-09-15|REAL|B. Riley Securities|Susan Anderson|Buy|Maintains|$9 → $12
+2025-09-15|APP|Benchmark|Mike Hickey|Buy|Maintains|$525 → $640
+2025-09-15|IONQ|B. Riley Securities|Craig Ellis|Buy|Maintains|$61 → $75
+2025-09-15|VTMX|UBS||Buy|Maintains|$36 → $35
+2025-09-15|RELY|JMP Securities|David M. Scharf|Market Outperform|Maintains|$32 → $23
+2025-09-15|ATLC|B. Riley Securities|Steve Moss|Buy|Maintains|$70 → $90
+2025-09-15|PTLO|UBS|Dennis Geiger|Neutral|Maintains|$9 → $7.5
+2025-09-15|FIZZ|UBS|Peter Grom|Sell|Maintains|$40 → $39
+2025-09-15|BA|Susquehanna|Charles Minervino|Positive|Maintains|→ $270
+2025-09-15|AR|UBS|Josh Silverstein|Buy|Maintains|$43 → $42
+2025-09-15|OXY|UBS|Josh Silverstein|Neutral|Maintains|$45 → $46
+2025-09-15|SGI|Piper Sandler|Peter Keith|Overweight|Maintains|$80 → $100
+2025-09-15|MU|UBS|Timothy Arcuri|Buy|Maintains|$155 → $185
+2025-09-15|FIX|UBS|Joshua Chan|Buy|Maintains|$710 → $875
+2025-09-15|ARE|Evercore ISI Group|Steve Sakwa|In-Line → Outperform|Upgrade|$91 → $104
+2025-09-15|SRPT|Guggenheim|Debjit Chattopadhyay|Buy → Buy|Reiterates|$22 → $22
+2025-09-15|MAZE|Guggenheim|Debjit Chattopadhyay|Buy|Maintains|$19 → $34
+2025-09-15|EFX|UBS|Kevin Mcveigh|Buy|Maintains|$287 → $297
+2025-09-15|STLD|Wells Fargo|Timna Tanners|Overweight|Maintains|$143 → $150
+2025-09-15|NUE|Wells Fargo|Timna Tanners|Equal-Weight|Maintains|$145 → $146
+2025-09-15|MDB|Guggenheim|Howard Ma|Buy|Maintains|$310 → $400
+2025-09-15|CLF|Wells Fargo|Timna Tanners|Equal-Weight|Maintains|$10 → $11
+2025-09-15|AMLX|Guggenheim|Seamus Fernandez|Buy|Maintains|$17 → $25
+2025-09-15|A|Wells Fargo|Brandon Couillard|Overweight|Maintains|$140 → $150
+2025-09-15|MU|Cantor Fitzgerald|C.J. Muse|Overweight|Maintains|$155 → $185
+2025-09-15|LASR|Cantor Fitzgerald|Troy Jensen|Overweight|Maintains|$27.5 → $33.5
+2025-09-15|TRNO|Barclays|Brendan Lynch|Equal-Weight|Maintains|$56 → $57
+2025-09-15|ABBV|Cantor Fitzgerald|Carter Gould|Overweight|Maintains|$215 → $245
+2025-09-15|SBAC|Barclays|Tim Long|Overweight|Maintains|$257 → $226
+2025-09-15|REXR|Barclays|Brendan Lynch|Underweight|Maintains|$35 → $39
+2025-09-15|PLD|Barclays|Anthony Powell|Overweight|Maintains|$119 → $118
+2025-09-15|IONQ|Cantor Fitzgerald|Troy Jensen|Overweight|Maintains|$45 → $60
+2025-09-15|PLYM|Barclays|Brendan Lynch|Equal-Weight|Maintains|$18 → $24
+2025-09-15|LINE|Barclays|Brendan Lynch|Overweight|Maintains|$52 → $51
+2025-09-15|CCI|Barclays|Brendan Lynch|Overweight|Maintains|$119 → $120
+2025-09-15|OCUL|Chardan Capital|Daniil Gataulin|→ Buy|Initiates|→ $21
+2025-09-15|BBOT|HC Wainwright & Co.|Robert Burns|→ Buy|Initiates|→ $27
+2025-09-15|RCEL|D. Boral Capital|Jason Kolbert|Buy|Maintains|$14 → $14
+2025-09-15|NBIS|Seaport Global|Jay Goldberg|→ Neutral|Initiates|—
+2025-09-15|CRWV|Seaport Global|Jay Goldberg|→ Neutral|Initiates|—
+2025-09-15|IONQ|Rosenblatt|Kevin Garrigan|Buy|Maintains|$70 → $70
+2025-09-15|BTDR|Rosenblatt|Kevin Cassidy|Buy|Maintains|$20 → $20
+2025-09-15|BBIO|HC Wainwright & Co.|Raghuram Selvaraju|Buy → Buy|Reiterates|$70 → $70
+2025-09-15|CGON|HC Wainwright & Co.|Andres Y. Maldonado|Buy → Buy|Reiterates|$75 → $75
+2025-09-15|NSIT|Barrington Research|Vincent Colicchio|Outperform|Maintains|$164 → $164
+2025-09-15|BLTE|HC Wainwright & Co.|Yi Chen|Buy|Maintains|$100 → $98
+2025-09-15|BEAM|HC Wainwright & Co.|Patrick R. Trucchio|Buy → Buy|Reiterates|$80 → $80
+2025-09-15|MCHP|Wells Fargo|Joe Quatrochi|→ Equal-Weight|Initiates|→ $60
+2025-09-15|SW|UBS|Andrew Jones|→ Buy|Initiates|→ $60
+2025-09-15|UNP|Citigroup|Ariel Rosa|Neutral → Buy|Upgrade|$250 → $251
+2025-09-15|VLY|Citigroup|Ben Gerlinger|Neutral → Buy|Upgrade|$10 → $13.5
+2025-09-15|PB|Citigroup|Ben Gerlinger|Buy → Neutral|Downgrade|$78 → $68
+2025-09-15|HR|Raymond James|Jonathan Hughes|Market Perform → Underperform|Downgrade|—
+2025-09-15|DOC|Raymond James|Jonathan Hughes|Market Perform → Outperform|Upgrade|→ $20
+2025-09-15|OTEX|National Bank Financial Inc|Richard Tse|Sector Perform → Outperform|Upgrade|$34 → $45
+2025-09-15|CNX|Mizuho|Nitin Kumar|Underperform → Neutral|Upgrade|$36 → $34
+2025-09-15|DRUG|HC Wainwright & Co.|Patrick R. Trucchio|Buy → Buy|Reiterates|$85 → $85
+2025-09-15|TALO|Mizuho|Nitin Kumar|Outperform → Neutral|Downgrade|→ $11
+2025-09-15|RZLV|HC Wainwright & Co.|Scott Buck|Buy|Maintains|$4 → $9
+2025-09-15|CVI|Mizuho|Nitin Kumar|Neutral → Underperform|Downgrade|$27 → $29
+2025-09-15|AVGO|Macquarie|Arthur Lai|→ Outperform|Initiates|→ $420
+2025-09-15|APP|BTIG|Clark Lampen|Buy|Maintains|$547 → $664
+2025-09-15|UPBD|Loop Capital|Anthony Chukumba|Hold → Buy|Upgrade|$21 → $36
+2025-09-15|WEN|BTIG|Peter Saleh|Neutral → Neutral|Reiterates|—
+2025-09-15|CGNX|JP Morgan|Tomohiko Sano|→ Neutral|Initiates|→ $45
+2025-09-15|PI|Needham|James Ricchiuti|Buy → Buy|Reiterates|$195 → $195
+2025-09-15|RDDT|Needham|Laura Martin|Buy|Maintains|$215 → $300
+2025-09-15|TKR|JP Morgan|Tomohiko Sano|→ Neutral|Initiates|→ $80
+2025-09-15|IONQ|Needham|N. Quinn Bolton|Buy|Maintains|$60 → $80
+2025-09-15|RRX|JP Morgan|Tomohiko Sano|→ Overweight|Initiates|→ $200
+2025-09-15|IMRX|Needham|Ami Fadia|Buy|Maintains|$8 → $11
+2025-09-15|ZGN|JP Morgan|Chiara Battistini|→ Overweight|Initiates|→ $11
+2025-09-15|BP|Exane BNP Paribas||Neutral → Outperform|Upgrade|—
+2025-09-15|ATLC|BTIG|Vincent Caintic|Buy|Maintains|$84 → $105
+2025-09-15|NMFC|B of A Securities|Derek Hewett|Buy → Underperform|Downgrade|$11.75 → $10
+2025-09-15|TRML|BMO Capital|Kostas Biliouris|Outperform → Market Perform|Downgrade|$35 → $48
+2025-09-12|LUV|JP Morgan|Jamie Baker|Underweight|Maintains|$28 → $35
+2025-09-12|HBAN|Truist Securities|Brian Foran|Buy|Maintains|$19 → $20
+2025-09-12|FITB|Truist Securities|Brian Foran|Buy|Maintains|$48 → $52
+2025-09-12|COF|Truist Securities|Brian Foran|Buy|Maintains|$260 → $270
+2025-09-12|CMA|Truist Securities|Brandon King|Hold|Maintains|$68 → $70
+2025-09-12|ANET|Melius Research|Ben Reitzes|Buy|Maintains|$160 → $185
+2025-09-12|TBPH|B. Riley Securities|Mayank Mamtani|→ Buy|Initiates|→ $28
+2025-09-12|IDCC|Roth Capital|Scott Searle|Buy|Maintains|$270 → $350
+2025-09-12|SRAD|Roth Capital|Eric Handler|→ Buy|Initiates|→ $40
+2025-09-12|GENI|Roth Capital|Eric Handler|→ Buy|Initiates|→ $16
+2025-09-12|RVMD|Goldman Sachs|Andrea Newkirk|Buy|Maintains|$65 → $73
+2025-09-12|CNM|Goldman Sachs|Joe Ritchie|Neutral|Maintains|$68 → $60
+2025-09-12|CARR|Goldman Sachs|Joe Ritchie|Buy|Maintains|$88 → $76
+2025-09-12|ANET|Goldman Sachs|Michael Ng|Buy|Maintains|$155 → $175
+2025-09-12|AAP|Morgan Stanley|Simeon Gutman|Equal-Weight|Maintains|$55 → $60
+2025-09-12|BBWI|Morgan Stanley|Kimberly Greenberger|Overweight|Maintains|$19 → $18
+2025-09-12|ENGN|Morgan Stanley|Jeffrey Hung|Overweight|Maintains|$19 → $18
+2025-09-12|FRSH|Morgan Stanley|Elizabeth Porter|Equal-Weight|Maintains|$18 → $16
+2025-09-12|TXN|Morgan Stanley|Joseph Moore|Underweight|Maintains|$197 → $192
+2025-09-12|VSCO|Morgan Stanley|Alex Straton|Equal-Weight|Maintains|$20 → $27
+2025-09-12|UNH|Morgan Stanley|Ricky Goldwasser|Overweight|Maintains|$325 → $395
+2025-09-12|ABVX|Morgan Stanley|Judah Frommer|Overweight|Maintains|$71 → $101
+2025-09-12|ANET|Morgan Stanley|Meta Marshall|Overweight|Maintains|$135 → $140
+2025-09-12|PCVX|Goldman Sachs|Asad Haider|→ Neutral|Initiates|→ $38
+2025-09-12|ALGS|HC Wainwright & Co.|Patrick R. Trucchio|Buy → Buy|Reiterates|$50 → $50
+2025-09-12|LULU|B of A Securities|Lorraine Hutchinson|Neutral|Maintains|$210 → $185
+2025-09-12|KELYA|Barrington Research|Kevin Steinke|Outperform|Maintains|$25 → $25
+2025-09-12|ADBE|BMO Capital|Keith Bachman|Outperform|Maintains|$450 → $405
+2025-09-12|ORCL|DA Davidson|Gil Luria|Neutral|Maintains|$300 → $300
+2025-09-12|CRUS|Stifel|Tore Svanberg|Buy|Maintains|$120 → $130
+2025-09-12|RH|Stifel|W. Andrew Carter|Buy|Maintains|$390 → $320
+2025-09-12|FIVN|DA Davidson|Clark Wright|Neutral|Maintains|$28 → $28
+2025-09-12|ZWS|Stifel|Nathan Jones|Buy|Maintains|$50 → $53
+2025-09-12|EEFT|DA Davidson|Peter Heckmann|Buy|Maintains|$130 → $130
+2025-09-12|EVI|DA Davidson|Michael Shlisky|Buy|Maintains|$28 → $28
+2025-09-12|WGO|Citigroup|James Hardiman|Buy|Maintains|$36 → $41
+2025-09-12|GEV|Jefferies|Julien Dumoulin-Smith|Hold|Maintains|$658 → $668
+2025-09-12|DNTH|Stifel|Alex Thompson|Buy|Maintains|$52 → $65
+2025-09-12|TVTX|Stifel|Alex Thompson|Hold|Maintains|$20 → $25
+2025-09-12|BBIO|UBS|Eliana Merle|Buy|Maintains|$72 → $82
+2025-09-12|THO|Citigroup|James Hardiman|Neutral|Maintains|$100 → $112
+2025-09-12|ANET|Citigroup|Atif Malik|Buy|Maintains|$136 → $176
+2025-09-12|SEGG|Noble Capital Markets|Michael Kupinski|→ Outperform|Initiates|→ $20
