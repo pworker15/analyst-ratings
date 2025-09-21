@@ -1,4 +1,4 @@
-name: Analyst-Ratings
+name: 🚰 Analyst-Ratings
 
 on:
   repository_dispatch:
