@@ -42,6 +42,21 @@ jobs:
           EMBED_MODE: ${{ vars.EMBED_MODE }}
           EMBEDS_PER_REQ:       ${{ vars.EMBEDS_PER_REQ }}
 
-
           
         run: node index.mjs
+
+      
+      # Commit & push only if there are changes
+      - name: Commit updated state
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      
+          # stash local changes before pulling
+          git stash --include-untracked || true
+          git pull --rebase origin main
+          git stash pop || true
+      
+          git add *
+          git diff --cached --quiet || git commit -m "ci: update state"
+          git push
