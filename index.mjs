@@ -170,12 +170,15 @@ rating_change,
 previos_current_rating,
 **/
 function makeOneLine(r) {
+  const isBig = Math.abs(Number.isFinite(r.upside_downside) ? r.upside_downside : 0) > 20; // is it bigger then 20% change
   const parts = [
     `${r.dateISO}\n**$${r.ticker}** - ${r.company}:  ${r.rawPriceText || (isFinite(r.currentPrice) ? `${r.currentPrice}` : "—")}\n`,
     `${r.price_target_change}  ${r.rating_change} (${r.upside_downside}) ${r.previos_current_rating}\n`,
     `${r.analyst_name} (${r.analyst_firm}) accuracy: ${r.analyst_score}\n`
   ].filter(Boolean);
-  return parts.join("");
+
+  const line = parts.join("");
+  return isBig ? `${line} @analyst_rating` : line;
 }
 
 function buildEmbed(r) {
