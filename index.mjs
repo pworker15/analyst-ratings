@@ -18,6 +18,9 @@ const MAX_PER_RUN   = Number(process.env.MAX_PER_RUN ?? 200);
 const EMBED_MODE    = (process.env.EMBED_MODE ?? "1") === "1";
 const EMBEDS_PER_REQ = Number(process.env.EMBEDS_PER_REQ ?? 10);
 
+const BIG_RATE_THRESHOLD = Number(process.env.BIG_RATE_THRESHOLD ?? 20);
+const ALERT_ROLE_ID = process.env.ALERT_ROLE_ID || "";            // Role ID של @alert
+
 if (!DISCORD_WEBHOOK_URL) {
   console.error("Missing DISCORD_WEBHOOK_URL in .env");
   process.exit(1);
@@ -170,7 +173,6 @@ rating_change,
 previos_current_rating,
 **/
 function makeOneLine(r) {
-  const isBig = Math.abs(Number.isFinite(r.upside_downside) ? r.upside_downside : 0) > 20; // is it bigger then 20% change
   const parts = [
     `${r.dateISO}\n**$${r.ticker}** - ${r.company}:  ${r.rawPriceText || (isFinite(r.currentPrice) ? `${r.currentPrice}` : "—")}\n`,
     `${r.price_target_change}  ${r.rating_change} (${r.upside_downside}) ${r.previos_current_rating}\n`,
@@ -178,7 +180,7 @@ function makeOneLine(r) {
   ].filter(Boolean);
 
   const line = parts.join("");
-  return isBig ? `${line} @analyst_rating` : line;
+  return line;
 }
 
 function buildEmbed(r) {
@@ -210,10 +212,10 @@ async function sendDiscord(content) {
   throw new Error("Failed to send after retries");
 }
 
-async function sendDiscordEmbeds(embeds) {
+async function sendDiscordEmbeds(embeds, mention) {
   for (let attempt = 1; attempt <= 5; attempt++) {
     try {
-      await axios.post(DISCORD_WEBHOOK_URL, { embeds, allowed_mentions: { parse: [] } }, { timeout: 15000 });
+      await axios.post(DISCORD_WEBHOOK_URL, { embeds, content: `<@&${mention}>` }, { timeout: 15000 });
       return;
     } catch (e) {
       if (e?.response?.status === 429) {
@@ -261,7 +263,19 @@ async function sendDiscordEmbeds(embeds) {
     for (let i = 0; i < limited.length; i += EMBEDS_PER_REQ) {
       const slice = limited.slice(i, i + EMBEDS_PER_REQ);
       const embeds = slice.map(({ r }) => buildEmbed(r));
-      await sendDiscordEmbeds(embeds);
+
+      var mention = "";
+      var rate_percentage = slice[0].r.upside_downside;
+
+      if (rate_percentage != undefined && rate_percentage != null && rate_percentage != "" && !Number.isNaN(rate_percentage) && Number.isFinite(rate_percentage)) {
+        if (Math.abs(rate_percentage)  > BIG_RATE_THRESHOLD) {
+          if (ALERT_ROLE_ID) {
+            mention = ALERT_ROLE_ID;
+          }
+        }
+      }
+
+      await sendDiscordEmbeds(embeds, mention);
 
       for (const { key } of slice) {
         await appendSent(key);
