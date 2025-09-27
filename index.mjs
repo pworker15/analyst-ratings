@@ -214,7 +214,7 @@ async function sendDiscord(content) {
 
 async function sendDiscordEmbeds(embeds, mention) {
   var content = "";
-  if (mention != "") {
+  if (mention && mention != undefined && mention != null && mention != "") {
     content = `<@&${mention}>`;
   }
 
