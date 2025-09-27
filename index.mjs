@@ -213,9 +213,14 @@ async function sendDiscord(content) {
 }
 
 async function sendDiscordEmbeds(embeds, mention) {
+  var content = "";
+  if (mention != "") {
+    content = `<@&${mention}>`;
+  }
+
   for (let attempt = 1; attempt <= 5; attempt++) {
     try {
-      await axios.post(DISCORD_WEBHOOK_URL, { embeds, content: `<@&${mention}>` }, { timeout: 15000 });
+      await axios.post(DISCORD_WEBHOOK_URL, { embeds, content: content }, { timeout: 15000 });
       return;
     } catch (e) {
       if (e?.response?.status === 429) {
