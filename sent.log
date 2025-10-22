@@ -6393,3 +6393,64 @@
 2025-10-22|XYZ|Keybanc|Andrew Schmidt|→ Overweight|Assumes|→ $94
 2025-10-20|MPWR|Wells Fargo|Joe Quatrochi|Equal-Weight|Maintains|$750 → $970
 2025-10-16|ASML|Wells Fargo|Joseph Quatrochi|Overweight|Maintains|$1105 → $1140
+2025-10-22|WOLF|Susquehanna|Christopher Rolland|Neutral|Maintains|$1.5 → $30
+2025-10-22|MAR|Morgan Stanley|Stephen Grambling|Overweight|Maintains|$302 → $296
+2025-10-22|RHP|Morgan Stanley|Stephen Grambling|→ Equal-Weight|Initiates|→ $92
+2025-10-22|PGRE|Morgan Stanley|Ronald Kamdem|Underweight → Equal-Weight|Upgrade|$5.5 → $6.6
+2025-10-22|MANH|Morgan Stanley|Chris Quintero|Underweight → Equal-Weight|Upgrade|$195 → $200
+2025-10-22|H|Morgan Stanley|Stephen Grambling|Equal-Weight → Overweight|Upgrade|$147 → $168
+2025-10-22|HLT|Morgan Stanley|Stephen Grambling|Overweight|Maintains|$286 → $289
+2025-10-22|FMC|Morgan Stanley|Vincent Andrews|Equal-Weight|Maintains|$42 → $38
+2025-10-22|EXC|Morgan Stanley|David Arcaro|Equal-Weight|Maintains|$49 → $53
+2025-10-22|ETR|Morgan Stanley|Stephen Byrd|Equal-Weight|Maintains|$85 → $93
+2025-10-22|EIX|Morgan Stanley|David Arcaro|Underweight|Maintains|$60 → $66
+2025-10-22|BROS|Morgan Stanley|Brian Harbour|Overweight|Maintains|$84 → $86
+2025-10-22|DUK|Morgan Stanley|Stephen Byrd|Equal-Weight|Maintains|$127 → $136
+2025-10-22|DTE|Morgan Stanley|David Arcaro|Overweight|Maintains|$137 → $145
+2025-10-22|NRIX|Needham|Gil Blum|Buy|Maintains|$27 → $26
+2025-10-22|ARCT|BTIG|Thomas Shrader|Buy|Maintains|$48 → $23
+2025-10-22|BSX|BTIG|Marie Thibault|Buy → Buy|Reiterates|$132 → $132
+2025-10-22|IMCR|HC Wainwright & Co.|Patrick R. Trucchio|Buy → Buy|Reiterates|$100 → $100
+2025-10-22|D|Morgan Stanley|Stephen Byrd|Equal-Weight|Maintains|$63 → $66
+2025-10-22|DRH|Morgan Stanley|Stephen Grambling|Equal-Weight|Maintains|$9 → $8.5
+2025-10-22|ED|Morgan Stanley|David Arcaro|Underweight|Maintains|$93 → $100
+2025-10-22|CMS|Morgan Stanley|Stephen Byrd|Equal-Weight|Maintains|$71 → $76
+2025-10-22|CHH|Morgan Stanley|Stephen Grambling|Underweight|Maintains|$121 → $106
+2025-10-22|CAVA|Morgan Stanley|Brian Harbour|Equal-Weight|Maintains|$97 → $95
+2025-10-22|COF|Morgan Stanley|Betsy Graseck|Overweight|Maintains|$267 → $272
+2025-10-22|EAT|Morgan Stanley|John Glass|Equal-Weight|Maintains|$161 → $160
+2025-10-22|ATO|Morgan Stanley|Stephen Byrd|Overweight|Maintains|$167 → $181
+2025-10-22|AEP|Morgan Stanley|Stephen Byrd|Overweight|Maintains|$115 → $123
+2025-10-22|AEE|Morgan Stanley|Stephen Byrd|Equal-Weight|Maintains|$104 → $111
+2025-10-22|AES|Morgan Stanley|Stephen Byrd|Overweight|Maintains|$23 → $24
+2025-10-22|MMM|Morgan Stanley|Chris Snyder|Underweight → Equal-Weight|Upgrade|$130 → $160
+2025-10-22|MMM|Barclays|Julian Mitchell|Overweight|Maintains|$172 → $180
+2025-10-22|SYK|Barclays|Matt Miksic|Overweight|Maintains|$443 → $453
+2025-10-22|DGX|Barclays|Stephanie Davis|Equal-Weight|Maintains|$190 → $195
+2025-10-22|PNR|Barclays|Julian Mitchell|Overweight|Maintains|$125 → $127
+2025-10-22|PFSI|Barclays|Terry Ma|Overweight|Maintains|$136 → $139
+2025-10-22|NDAQ|Barclays|Benjamin Budish|Overweight|Maintains|$108 → $109
+2025-10-22|MANH|Barclays|Guy Hardwick|Overweight|Maintains|$247 → $244
+2025-10-22|GM|Barclays|Dan Levy|Overweight|Maintains|$77 → $85
+2025-10-22|PBF|Goldman Sachs|Neil Mehta|Neutral|Maintains|$25 → $30
+2025-10-22|LINE|Barclays|Brendan Lynch|Overweight|Maintains|$51 → $47
+2025-10-22|YUM|Barclays|Jeffrey Bernstein|Overweight|Maintains|$164 → $163
+2025-10-22|CLMT|Goldman Sachs|Neil Mehta|Buy|Maintains|$15 → $20
+2025-10-22|WING|Barclays|Jeffrey Bernstein|Overweight|Maintains|$440 → $330
+2025-10-22|WEN|Barclays|Jeffrey Bernstein|Equal-Weight|Maintains|$11 → $9
+2025-10-22|CAKE|Barclays|Jeffrey Bernstein|Underweight|Maintains|$62 → $50
+2025-10-22|TXRH|Barclays|Jeffrey Bernstein|Equal-Weight|Maintains|$189 → $187
+2025-10-22|SG|Barclays|Jeffrey Bernstein|Equal-Weight|Maintains|$10 → $8
+2025-10-22|SBUX|Barclays|Jeffrey Bernstein|Overweight|Maintains|$115 → $95
+2025-10-22|SHAK|Barclays|Jeffrey Bernstein|Overweight|Maintains|$160 → $115
+2025-10-22|PFGC|Barclays|Jeffrey Bernstein|Overweight|Maintains|$120 → $118
+2025-10-22|MCD|Barclays|Jeffrey Bernstein|Overweight|Maintains|$360 → $362
+2025-10-22|KRUS|Barclays|Jeffrey Bernstein|Equal-Weight|Maintains|$75 → $67
+2025-10-22|JACK|Barclays|Jeffrey Bernstein|Equal-Weight|Maintains|$19 → $17
+2025-10-22|TERN|Barclays|Etzer Darout|Overweight|Maintains|$15 → $14
+2025-10-22|OMDA|Barclays|Saket Kalia|Overweight|Maintains|$24 → $28
+2025-10-22|USFD|Bernstein|Danilo Gargiulo|→ Outperform|Initiates|→ $95
+2025-10-22|COF|JP Morgan|Richard Shane|Neutral|Maintains|$235 → $237
+2025-10-22|PFGC|Bernstein|Danilo Gargiulo|→ Outperform|Initiates|→ $130
+2025-10-22|PCAR|JP Morgan|Tami Zakaria|Neutral|Maintains|$103 → $108
+2025-10-22|SYY|Bernstein|Danilo Gargiulo|→ Market Perform|Initiates|→ $83
