@@ -19,6 +19,7 @@ const EMBED_MODE    = (process.env.EMBED_MODE ?? "1") === "1";
 const EMBEDS_PER_REQ = Number(process.env.EMBEDS_PER_REQ ?? 10);
 
 const BIG_RATE_THRESHOLD = Number(process.env.BIG_RATE_THRESHOLD ?? 20);
+const MIN_ANALYST_ACCURACY = Number(process.env.MIN_ANALYST_ACCURACY ?? 70);
 const ALERT_ROLE_ID = process.env.ALERT_ROLE_ID || "";            // Role ID של @alert
 
 if (!DISCORD_WEBHOOK_URL) {
@@ -271,10 +272,11 @@ async function sendDiscordEmbeds(embeds, mention) {
 
       var mention = "";
       var rate_percentage = slice[0].r.upside_downside.replace('%', '');
+	  var analyst_score = slice[0].r.analyst_score.replace('%', '');
 
       console.log(`rate_percentage != undefined: ${rate_percentage != undefined} \nrate_percentage != null: ${rate_percentage != null} \nrate_percentage != "": ${rate_percentage != ""} \n!Number.isNaN(rate_percentage): ${!Number.isNaN(rate_percentage)} \nMath.abs(rate_percentage)  > BIG_RATE_THRESHOLD: ${Math.abs(rate_percentage)  > BIG_RATE_THRESHOLD} \nrate_percentage: ${rate_percentage} \nALERT_ROLE_ID: ${ALERT_ROLE_ID}`);
-      if (rate_percentage != undefined && rate_percentage != null && rate_percentage != "" && !Number.isNaN(rate_percentage)) {
-        if (Math.abs(rate_percentage)  > BIG_RATE_THRESHOLD) {
+      if (rate_percentage != undefined && rate_percentage != null && rate_percentage != "" && !Number.isNaN(rate_percentage) && analyst_score != undefined && analyst_score != null && analyst_score != "" && !Number.isNaN(analyst_score)) {
+        if (Math.abs(rate_percentage)  >= BIG_RATE_THRESHOLD && analyst_score >= MIN_ANALYST_ACCURACY) {
           if (ALERT_ROLE_ID) {
             mention = ALERT_ROLE_ID;
           }
