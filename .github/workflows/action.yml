@@ -42,6 +42,7 @@ jobs:
           EMBED_MODE: ${{ vars.EMBED_MODE }}
           EMBEDS_PER_REQ:       ${{ vars.EMBEDS_PER_REQ }}
           BIG_RATE_THRESHOLD:       ${{ vars.BIG_RATE_THRESHOLD }}
+          MIN_ANALYST_ACCURACY:       ${{ vars.MIN_ANALYST_ACCURACY }}
           ALERT_ROLE_ID:       ${{ vars.ALERT_ROLE_ID }}
           
           
