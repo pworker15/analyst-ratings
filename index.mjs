@@ -272,7 +272,7 @@ async function sendDiscordEmbeds(embeds, mention) {
       var mention = "";
       var rate_percentage = slice[0].r.upside_downside;
 
-      console.log(`rate_percentage != undefined: ${rate_percentage != undefined} \nrate_percentage != null: ${rate_percentage != null} \nrate_percentage != "": ${rate_percentage != ""} \n!Number.isNaN(rate_percentage): ${!Number.isNaN(rate_percentage)} \nrate_percentage: ${rate_percentage}`);
+      console.log(`rate_percentage != undefined: ${rate_percentage != undefined} \nrate_percentage != null: ${rate_percentage != null} \nrate_percentage != "": ${rate_percentage != ""} \n!Number.isNaN(rate_percentage): ${!Number.isNaN(rate_percentage)} \nMath.abs(rate_percentage)  > BIG_RATE_THRESHOLD: ${Math.abs(rate_percentage)  > BIG_RATE_THRESHOLD} \nrate_percentage: ${rate_percentage} \nALERT_ROLE_ID: ${ALERT_ROLE_ID}`);
       if (rate_percentage != undefined && rate_percentage != null && rate_percentage != "" && !Number.isNaN(rate_percentage)) {
         if (Math.abs(rate_percentage)  > BIG_RATE_THRESHOLD) {
           if (ALERT_ROLE_ID) {
