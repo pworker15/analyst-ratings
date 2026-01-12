@@ -14329,3 +14329,203 @@
 2026-01-08|CWAN|Wells Fargo|Michael Turrin|Overweight → Equal-Weight|Downgrade|$27 → $24.55
 2026-01-08|TOST|Wolfe Research|Darrin Peller|Outperform → Peer Perform|Downgrade|—
 2026-01-08|FIG|Wells Fargo|Michael Turrin|Equal-Weight → Overweight|Upgrade|$52 → $52
+2026-01-12|NTSK|Keybanc|Eric Heath|Overweight|Maintains|$28 → $24
+2026-01-12|RBRK|Keybanc|Eric Heath|Overweight|Maintains|$113 → $95
+2026-01-12|ZS|Keybanc|Eric Heath|Overweight|Maintains|$350 → $300
+2026-01-12|MDLN|RBC Capital|Ryan Halsted|→ Outperform|Initiates|→ $47
+2026-01-12|MDLN|Rothschild & Co|Ed Ridley-Day|→ Neutral|Initiates|→ $42
+2026-01-12|GNRC|Needham|Sean Milligan|→ Buy|Initiates|→ $211
+2026-01-08|ELV|Wolfe Research|Justin Lake|Peer Perform → Outperform|Upgrade|→ $425
+2026-01-08|INTU|Wells Fargo|Michael Turrin|Overweight → Equal-Weight|Downgrade|$840 → $700
+2026-01-08|EEFT|Wolfe Research|Darrin Peller|Peer Perform → Underperform|Downgrade|→ $80
+2026-01-08|CZR|Susquehanna|Joseph Stauff|Neutral → Positive|Upgrade|$25 → $31
+2026-01-08|BFH|UBS|Nicholas Holowko|→ Buy|Initiates|→ $92
+2026-01-08|VTYX|UBS|Michael Yee|Buy → Neutral|Downgrade|$20 → $14
+2026-01-08|UPS|Wolfe Research|Scott Group|Outperform → Peer Perform|Downgrade|—
+2026-01-08|DRI|Truist Securities|Jake Bartlett|Buy → Hold|Downgrade|$240 → $207
+2026-01-08|XPO|Wolfe Research|Scott Group|Outperform → Peer Perform|Downgrade|—
+2026-01-08|RITM|UBS|Douglas Harter|Buy → Buy|Reinstates|→ $16
+2026-01-08|ICLR|Truist Securities|Jailendra Singh|Buy → Hold|Downgrade|$231 → $222
+2026-01-08|FTRE|Truist Securities|Jailendra Singh|Hold → Buy|Upgrade|$12 → $22
+2026-01-08|EHAB|UBS|A.J. Rice|Neutral → Buy|Upgrade|$8.5 → $12
+2026-01-08|GAP|UBS|Jay Sole|Neutral → Buy|Upgrade|$26 → $41
+2026-01-08|DINO|Piper Sandler|Ryan Todd|Neutral → Overweight|Upgrade|$64 → $68
+2026-01-08|APTV|Piper Sandler|Alexander Potter|Neutral → Overweight|Upgrade|$87 → $103
+2026-01-08|STLA|Piper Sandler|Alexander Potter|Neutral → Overweight|Upgrade|$9 → $15
+2026-01-08|VALE|Scotiabank|Alfonso Salazar|Sector Outperform → Sector Perform|Downgrade|$14 → $15
+2026-01-08|PII|Seaport Global|Gerrick Johnson|→ Buy|Initiates|→ $83
+2026-01-08|BWA|Piper Sandler|Alexander Potter|Overweight → Neutral|Downgrade|$52 → $51
+2026-01-08|GM|Piper Sandler|Alexander Potter|Neutral → Overweight|Upgrade|$66 → $98
+2026-01-08|R|Wolfe Research|Scott Group|Outperform → Peer Perform|Downgrade|—
+2026-01-08|F|Piper Sandler|Alexander Potter|Neutral → Overweight|Upgrade|$11 → $16
+2026-01-08|SAIA|Wolfe Research|Scott Group|Outperform → Peer Perform|Downgrade|—
+2026-01-08|EXR|Scotiabank|Nicholas Yulico|Sector Outperform → Sector Perform|Downgrade|$162 → $145
+2026-01-08|WAB|Wolfe Research|Scott Group|Peer Perform → Outperform|Upgrade|→ $245
+2026-01-08|ABBV|Wolfe Research|Alexandria Hammond|Outperform → Peer Perform|Downgrade|—
+2026-01-08|JBHT|Citigroup|Ariel Rosa|Buy → Neutral|Downgrade|$175 → $221
+2026-01-08|MRK|Wolfe Research|Alexandria Hammond|Peer Perform → Outperform|Upgrade|→ $135
+2026-01-08|AXSM|Morgan Stanley|Sean Laaman|Overweight → Equal-Weight|Downgrade|$196 → $204
+2026-01-08|CTNM|Morgan Stanley|Jeffrey Hung|Overweight → Equal-Weight|Downgrade|$23 → $14
+2026-01-08|XPO|Citigroup|Ariel Rosa|Buy → Neutral|Downgrade|$164 → $171
+2026-01-08|EXEL|Morgan Stanley|Sean Laaman|Overweight → Equal-Weight|Downgrade|$45 → $48
+2026-01-08|VTYX|LifeSci Capital|Sam Slutsky|Outperform → Market Perform|Downgrade|→ $14
+2026-01-08|NBIX|Morgan Stanley|Jeffrey Hung|Overweight → Equal-Weight|Downgrade|$173 → $175
+2026-01-08|PGR|Barclays|Alex Scott|Equal-Weight → Overweight|Upgrade|$257 → $265
+2026-01-08|AA|JP Morgan|Bill Peterson|Neutral → Underweight|Downgrade|$45 → $50
+2026-01-08|RCUS|Morgan Stanley|Terence Flynn|Overweight → Equal-Weight|Downgrade|$23 → $20
+2026-01-08|NRIX|Morgan Stanley|Terence Flynn|Equal-Weight → Overweight|Upgrade|$15 → $36
+2026-01-08|QBTS|Rosenblatt|John McPeake|Buy|Maintains|$40 → $43
+2026-01-08|ROKU|Evercore ISI Group|Shweta Khajuria|In-Line → Outperform|Upgrade|$105 → $145
+2026-01-08|EQNR|Jefferies|Mark Wilson|→ Hold|Reinstates|—
+2026-01-08|COIN|B of A Securities|Jason Kupferberg|Neutral → Buy|Upgrade|$340 → $340
+2026-01-08|TTE|Jefferies|Mark Wilson|Hold → Buy|Upgrade|—
+2026-01-08|TSN|BMO Capital|Andrew Strelzik|Market Perform → Outperform|Upgrade|$60 → $67
+2026-01-08|VTYX|Canaccord Genuity|Edward Nash|Buy → Hold|Downgrade|$16 → $14
+2026-01-08|PCH|BMO Capital|Ketan Mamtora|Outperform → Market Perform|Downgrade|$51 → $45
+2026-01-08|NOW|Macquarie|Steven Koenig|Neutral|Maintains|→ $172
+2026-01-08|ACI|Telsey Advisory Group|Joseph Feldman|Outperform|Maintains|$24 → $22
+2026-01-08|COST|Telsey Advisory Group|Joseph Feldman|Outperform|Maintains|$1100 → $1100
+2026-01-08|PLD|Baird|David Rodgers|Outperform → Neutral|Downgrade|$128 → $130
+2026-01-08|TRNO|Baird|David Rodgers|Neutral → Outperform|Upgrade|$63 → $64
+2026-01-08|JKHY|Wolfe Research|Darrin Peller|Peer Perform → Outperform|Upgrade|→ $220
+2026-01-08|OMCL|Keybanc|Scott Schoenhaus|Sector Weight → Overweight|Upgrade|→ $60
+2026-01-08|CSGP|Citizens|Andrew Boone|Market Outperform|Maintains|$100 → $78
+2026-01-08|CRNX|Citizens|Jonathan Wolleben|Market Outperform|Maintains|$108 → $105
+2026-01-08|INTU|TD Cowen|Jared Levine|→ Buy|Initiates|→ $802
+2026-01-08|RDDT|Cantor Fitzgerald|Deepak Mathivanan|→ Neutral|Initiates|→ $240
+2026-01-08|ABNB|Cantor Fitzgerald|Deepak Mathivanan|Underweight → Neutral|Upgrade|$117 → $141
+2026-01-08|GOOGL|Cantor Fitzgerald|Deepak Mathivanan|Neutral → Overweight|Upgrade|$310 → $370
+2026-01-08|DRVN|BTIG|Marvin Fong|Buy → Buy|Reiterates|$21 → $21
+2026-01-08|ABVX|BTIG|Julian Harrison|Buy|Maintains|$120 → $150
+2026-01-08|SAIL|BTIG|Gray Powell|Buy → Buy|Reiterates|$29 → $29
+2026-01-08|ZBH|BTIG|Ryan Zimmerman|Buy → Buy|Reiterates|$112 → $112
+2026-01-08|COMP|BTIG|Jake Fuller|Buy|Maintains|$12.5 → $15
+2026-01-07|ROK|Wells Fargo|Joseph O'Dea|Equal-Weight|Maintains|$380 → $410
+2026-01-07|PH|Wells Fargo|Joseph O'Dea|Overweight|Maintains|$925 → $1000
+2026-01-07|IR|Wells Fargo|Joseph O'Dea|Overweight|Maintains|$87 → $92
+2026-01-07|ITW|Wells Fargo|Joseph O'Dea|Underweight|Maintains|$245 → $250
+2026-01-07|HUBB|Wells Fargo|Joseph O'Dea|Overweight|Maintains|$500 → $515
+2026-01-07|HON|Wells Fargo|Joseph O'Dea|Equal-Weight|Maintains|$218 → $215
+2026-01-07|EMR|Wells Fargo|Joseph O'Dea|Equal-Weight|Maintains|$140 → $145
+2026-01-07|DOV|Wells Fargo|Joseph O'Dea|Equal-Weight|Maintains|$200 → $205
+2026-01-07|CTRI|Wells Fargo|Joseph O'Dea|Overweight|Maintains|$25 → $30
+2026-01-07|ATMU|Wells Fargo|Joseph O'Dea|Equal-Weight|Maintains|$52 → $54
+2026-01-07|MOH|Wells Fargo|Stephen Baxter|Overweight|Maintains|$165 → $208
+2026-01-07|ELV|Wells Fargo|Stephen Baxter|Overweight|Maintains|$403 → $424
+2026-01-07|CNC|Wells Fargo|Stephen Baxter|Equal-Weight|Maintains|$35 → $43
+2026-01-07|PNTG|Wells Fargo|Stephen Baxter|Overweight|Maintains|$31 → $38
+2026-01-07|THC|Wells Fargo|Stephen Baxter|Overweight|Maintains|$252 → $229
+2026-01-07|HCA|Wells Fargo|Stephen Baxter|Equal-Weight|Maintains|$431 → $452
+2026-01-07|BTSG|Wells Fargo|Stephen Baxter|Overweight|Maintains|$39 → $43
+2026-01-07|EVTL|William Blair|Louie DiPalma|→ Outperform|Initiates|—
+2026-01-07|DD|UBS|Joshua Spector|Buy|Maintains|$46 → $49
+2026-01-07|ECL|UBS|Joshua Spector|Neutral|Maintains|$291 → $295
+2026-01-07|ED|UBS|William Appicelli|Neutral|Maintains|$104 → $105
+2026-01-07|ULTA|UBS|Michael Lasser|Buy|Maintains|$690 → $780
+2026-01-07|SCHW|UBS|Michael Brown|Buy|Maintains|$119 → $123
+2026-01-07|MC|UBS|Michael Brown|Neutral|Maintains|$70 → $74
+2026-01-07|EVR|UBS|Michael Brown|Neutral|Maintains|$340 → $363
+2026-01-07|HAS|UBS|Arpine Kocharyan|Buy|Maintains|$89 → $99
+2026-01-07|MAT|UBS|Arpine Kocharyan|Buy|Maintains|$29 → $30
+2026-01-07|CHH|UBS|Robin Farley|Neutral|Maintains|$120 → $118
+2026-01-07|ICE|UBS|Alex Kramm|Buy|Maintains|$200 → $195
+2026-01-07|ACLX|UBS|Michael Yee|Buy → Buy|Assumes|→ $100
+2026-01-07|IDYA|UBS|Michael Yee|Buy → Buy|Assumes|→ $50
+2026-01-07|DNLI|UBS|Michael Yee|Buy → Buy|Assumes|→ $25
+2026-01-07|IMCR|UBS|Michael Yee|Sell → Buy|Assumes|$24 → $55
+2026-01-07|IVA|UBS|Michael Yee|Neutral → Buy|Assumes|$3 → $12
+2026-01-07|ANAB|UBS|Michael Yee|Neutral → Buy|Assumes|$20 → $70
+2026-01-07|VRDN|UBS|Michael Yee|→ Buy|Initiates|→ $50
+2026-01-07|SRRK|UBS|Michael Yee|→ Buy|Initiates|→ $60
+2026-01-07|VTYX|UBS|Michael Yee|→ Buy|Initiates|→ $20
+2026-01-07|SDGR|UBS|Michael Yee|→ Neutral|Initiates|→ $18
+2026-01-07|ORKA|UBS|Michael Yee|→ Buy|Initiates|→ $50
+2026-01-07|OLMA|UBS|Michael Yee|→ Buy|Initiates|→ $45
+2026-01-07|NUVB|UBS|Michael Yee|→ Neutral|Initiates|→ $10
+2026-01-07|MBX|UBS|Michael Yee|→ Buy|Initiates|→ $60
+2026-01-07|KOD|UBS|Michael Yee|→ Buy|Initiates|→ $50
+2026-01-07|BEAM|UBS|Michael Yee|→ Neutral|Initiates|→ $28
+2026-01-07|ZLAB|UBS|Michael Yee|→ Buy|Initiates|→ $35
+2026-01-07|ALGS|UBS|Michael Yee|→ Buy|Initiates|→ $20
+2026-01-07|MRK|UBS|Trung Huynh|Buy|Maintains|$105 → $130
+2026-01-07|MU|UBS|Timothy Arcuri|Buy|Maintains|$300 → $400
+2026-01-07|UPS|UBS|Thomas Wadewitz|Buy|Maintains|$113 → $116
+2026-01-07|ASTS|Scotiabank|Andres Coello|Sector Perform → Sector Underperform|Downgrade|→ $45.6
+2026-01-07|BIIB|Citigroup|Geoff Meacham|Neutral|Maintains|$153 → $180
+2026-01-07|BMY|Citigroup|Andrew Baum|Neutral|Maintains|$45 → $53
+2026-01-07|GILD|Citigroup|Geoff Meacham|Buy|Maintains|$135 → $140
+2026-01-07|MRK|Citigroup|Geoff Meacham|Neutral|Maintains|$95 → $110
+2026-01-07|PFGC|Citigroup|Karen Holthouse|Buy|Maintains|$134 → $127
+2026-01-07|SYY|Citigroup|Karen Holthouse|Neutral|Maintains|$82 → $81
+2026-01-07|USFD|Citigroup|Karen Holthouse|Buy|Maintains|$95 → $90
+2026-01-07|AD|Citigroup|Michael Rollins|Buy|Maintains|$37 → $63
+2026-01-07|TDS|Citigroup|Michael Rollins|Buy|Maintains|$45 → $51
+2026-01-07|BXP|Citigroup|Nick Joseph|Neutral|Maintains|$75 → $70
+2026-01-07|ALK|Citigroup|John Godyn|Buy|Maintains|$61 → $69
+2026-01-07|ALGT|Citigroup|John Godyn|Neutral|Maintains|$88 → $109
+2026-01-07|AAL|Citigroup|John Godyn|Buy|Maintains|$19 → $21
+2026-01-07|JBLU|Citigroup|John Godyn|Sell|Maintains|$4.1 → $4
+2026-01-07|LUV|Citigroup|John Godyn|Neutral|Maintains|$38 → $44
+2026-01-07|SNCY|Citigroup|John Godyn|Neutral|Maintains|$15 → $18
+2026-01-07|UAL|Citigroup|John Godyn|Buy|Maintains|$132 → $153
+2026-01-07|PEG|Ladenburg Thalmann|Paul Fremont|Neutral → Buy|Upgrade|→ $87.5
+2026-01-07|SEVN|Ladenburg Thalmann|Christopher Nolan|→ Buy|Initiates|→ $10
+2026-01-07|RMR|Ladenburg Thalmann|Christopher Nolan|→ Buy|Initiates|→ $17
+2026-01-07|PROF|Lake Street|Benjamin Haynor|Buy|Maintains|$11 → $12
+2026-01-07|MUR|Barclays|Betty Jiang|Underweight|Maintains|$26 → $29
+2026-01-07|ISRG|Barclays|Matt Miksic|Overweight|Maintains|$635 → $686
+2026-01-07|XYL|Barclays|William Grippin|Overweight|Maintains|$172 → $166
+2026-01-07|TT|Barclays|Julian Mitchell|Overweight|Maintains|$506 → $505
+2026-01-07|ROK|Barclays|Julian Mitchell|Overweight|Maintains|$435 → $450
+2026-01-07|RAL|Barclays|Julian Mitchell|Overweight|Maintains|$59 → $60
+2026-01-07|PH|Barclays|Julian Mitchell|Overweight|Maintains|$950 → $990
+2026-01-07|LII|Barclays|Julian Mitchell|Overweight|Maintains|$680 → $667
+2026-01-07|KMT|Barclays|Julian Mitchell|Equal-Weight|Maintains|$25 → $28
+2026-01-07|JCI|Barclays|Julian Mitchell|Equal-Weight|Maintains|$119 → $125
+2026-01-07|HUBB|Barclays|Julian Mitchell|Equal-Weight|Maintains|$456 → $465
+2026-01-07|GEV|Barclays|Julian Mitchell|Overweight|Maintains|$800 → $830
+2026-01-07|EMR|Barclays|Julian Mitchell|Equal-Weight|Maintains|$135 → $145
+2026-01-07|ETN|Barclays|Julian Mitchell|Equal-Weight|Maintains|$362 → $350
+2026-01-07|DOV|Barclays|Julian Mitchell|Equal-Weight|Maintains|$195 → $205
+2026-01-07|FTCI|HC Wainwright & Co.|Amit Dayal|Buy|Maintains|$5 → $20
+2026-01-07|AME|Barclays|Julian Mitchell|Equal-Weight|Maintains|$205 → $210
+2026-01-07|SATS|TD Cowen|Gregory Williams|Buy|Maintains|$100 → $158
+2026-01-07|UAL|TD Cowen|Tom Fitzgerald|Buy|Maintains|$125 → $138
+2026-01-07|YUM|Barclays|Jeffrey Bernstein|Overweight|Maintains|$175 → $179
+2026-01-07|JBLU|TD Cowen|Tom Fitzgerald|Hold|Maintains|$4 → $5
+2026-01-07|WING|Barclays|Jeffrey Bernstein|Overweight|Maintains|$295 → $335
+2026-01-07|CAKE|Barclays|Jeffrey Bernstein|Underweight|Maintains|$48 → $51
+2026-01-07|DAL|TD Cowen|Tom Fitzgerald|Buy|Maintains|$77 → $82
+2026-01-07|TXRH|Barclays|Jeffrey Bernstein|Equal-Weight|Maintains|$170 → $185
+2026-01-07|AAL|TD Cowen|Tom Fitzgerald|Buy|Maintains|$16 → $19
+2026-01-07|SYY|Barclays|Jeffrey Bernstein|Overweight|Maintains|$86 → $88
+2026-01-07|SG|Barclays|Jeffrey Bernstein|Equal-Weight|Maintains|$5 → $7
+2026-01-07|NOV|TD Cowen|Marc Bianchi|Buy|Maintains|$19 → $22
+2026-01-07|SBUX|Barclays|Jeffrey Bernstein|Overweight|Maintains|$95 → $110
+2026-01-07|LBRT|TD Cowen|Marc Bianchi|Hold|Maintains|$15 → $19
+2026-01-07|SHAK|Barclays|Jeffrey Bernstein|Overweight|Maintains|$115 → $110
+2026-01-07|HP|TD Cowen|Marc Bianchi|Hold|Maintains|$33 → $35
+2026-01-07|HAL|TD Cowen|Marc Bianchi|Buy|Maintains|$38 → $39
+2026-01-07|QSR|Barclays|Jeffrey Bernstein|Overweight|Maintains|$78 → $86
+2026-01-07|FTI|TD Cowen|Marc Bianchi|Buy|Maintains|$47 → $56
+2026-01-07|PFGC|Barclays|Jeffrey Bernstein|Overweight|Maintains|$120 → $105
+2026-01-07|BKR|TD Cowen|Marc Bianchi|Buy|Maintains|$57 → $55
+2026-01-07|MCD|Barclays|Jeffrey Bernstein|Overweight|Maintains|$358 → $372
+2026-01-07|TMO|TD Cowen|Dan Brennan|Buy|Maintains|$654 → $696
+2026-01-07|KRUS|Barclays|Jeffrey Bernstein|Equal-Weight|Maintains|$67 → $62
+2026-01-07|ILMN|TD Cowen|Dan Brennan|Hold|Maintains|$115 → $140
+2026-01-07|JACK|Barclays|Jeffrey Bernstein|Equal-Weight|Maintains|$15 → $20
+2026-01-07|DHR|TD Cowen|Dan Brennan|Buy|Maintains|$260 → $270
+2026-01-07|BRKR|TD Cowen|Dan Brennan|Hold|Maintains|$42 → $53
+2026-01-07|FWRG|Barclays|Jeffrey Bernstein|Overweight|Maintains|$21 → $19
+2026-01-07|BROS|Barclays|Jeffrey Bernstein|Overweight|Maintains|$72 → $76
+2026-01-07|TXG|TD Cowen|Dan Brennan|Hold|Maintains|$15 → $18
+2026-01-07|FROG|Cantor Fitzgerald|Jonathan Ruykhaver|Overweight|Maintains|$70 → $80
+2026-01-07|DPZ|Barclays|Jeffrey Bernstein|Underweight|Maintains|$405 → $370
+2026-01-07|AVTR|TD Cowen|Dan Brennan|Hold|Maintains|$14 → $12
+2026-01-07|DIN|Barclays|Jeffrey Bernstein|Equal-Weight|Maintains|$26 → $40
+2026-01-07|HIG|Evercore ISI Group|David Motemaden|In-Line|Maintains|$137 → $145
+2026-01-07|DRI|Barclays|Jeffrey Bernstein|Overweight|Maintains|$230 → $227
+2026-01-07|MMC|Evercore ISI Group|David Motemaden|Outperform|Maintains|$237 → $236
+2026-01-07|CMG|Barclays|Jeffrey Bernstein|Equal-Weight|Maintains|$38 → $44
+2026-01-07|PGR|Evercore ISI Group|David Motemaden|In-Line|Maintains|$250 → $237
